@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Noorwegen</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <script src="data.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <img class="background_image" src="./images/trees_road_sun.jpg">
+    <div class="language">
+      <a id="nl_tab" onclick="load('nl')">Nederlands</a> | <a id="en_tab" onclick="load('en')" >English</a>
+    </div>
+    <div class="background">
+      <div class="sidebar"></div>
+      <div class="intro"></div>
+      <div id="blogposts"></div>
+    </div>
+    <div class="footer">
+      <p>&copy Suzanna Wentzel</p>
+    </div>
+
+    <script>
+      function clear() {
+          $(".intro").empty();
+          $("#blogposts").empty();
+          $(".sidebar").empty();
+          $(".language a").removeClass("active");
+      }
+
+      function load(language) {
+          clear();
+
+          $(".intro").append(`
+            <img src="${intro.img}" />
+            <h1>${intro.title}</h1>
+            <p>${intro[language].text}</p>`
+          );
+
+          for (let i in blogposts) {
+              let post = blogposts[i];
+
+              $("#blogposts").append(`
+                <div class="blogpost" id="${i}">
+                  <h2>${post.date}</h2>
+                  <h1>${post[language].title}</h1>
+                  <p>${post[language].text}</p>
+                </div>`
+              );
+
+              $(".sidebar").append(`
+                <div class="linkylink">
+                  <a href="#${i}">${post[language].title}</a><br>
+                  <i class="far fa-clock"></i>
+                  <p>${post.date}</p>
+                </div>`
+              );
+          }
+
+          $(`#${language}_tab`).addClass("active");
+          registerScroll();
+      }
+
+      function registerScroll() {
+        $("a").on('click', function(event) {
+            if (this.hash !== "") {
+                event.preventDefault();
+                var hash = this.hash;
+
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top}, 800, function(){
+                    window.location.hash = hash;
+                });
+            }
+        });
+      }
+
+      $(function() {
+          load('en');
+      });
+    </script>
+  </body>
+</html>
