@@ -22,7 +22,7 @@ var intro = {
 var blogposts = [
   {
     date: "00/00/0000",
-    img: "",
+    img: "./images/trees_road_sun.jpg",
     vid: "",
     nl: {
       title: "hallo",
