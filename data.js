@@ -22,6 +22,8 @@ var intro = {
 var blogposts = [
   {
     date: "00/00/0000",
+    img: "",
+    vid: "",
     nl: {
       title: "hallo",
       text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>
@@ -43,6 +45,8 @@ var blogposts = [
         in culpa qui officia deserunt mollit anim id est laborum.`
     }
   },{
+    img: "",
+    vid: "",
     date: "00/00/0000",
     nl: {
       title: "hallo",

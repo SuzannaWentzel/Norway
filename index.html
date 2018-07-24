@@ -44,13 +44,35 @@
           for (let i in blogposts) {
               let post = blogposts[i];
 
-              $("#blogposts").append(`
-                <div class="blogpost" id="${i}">
-                  <h2>${post.date}</h2>
-                  <h1>${post[language].title}</h1>
-                  <p>${post[language].text}</p>
-                </div>`
-              );
+              if (post.img !== "") {
+                  $("#blogposts").append(`
+                      <div class="blogpost" id="${i}">
+                        <h2>${post.date}</h2>
+                        <h1>${post[language].title}</h1>
+                        <img class="post_image" src="${post.img}">
+                        <p>${post[language].text}</p>
+                        <div class="empty"></div>
+                      </div>`);
+              } else if (post.vid !== "") {
+                  $("#blogposts").append(`
+                      <div class="blogpost" id="${i}">
+                        <h2>${post.date}</h2>
+                        <h1>${post[language].title}</h1>
+                        <iframe width="560" height="315" class="post_vid"
+                          src="${post.vid}" frameborder="0"
+                          allow="autoplay; encrypted-media"
+                          allowfullscreen></iframe>
+                        <p>${post[language].text}</p>
+                        <div class="empty"></div>
+                      </div>`);
+              } else {
+                  $("#blogposts").append(`
+                      <div class="blogpost" id="${i}">
+                        <h2>${post.date}</h2>
+                        <h1>${post[language].title}</h1>
+                        <p>${post[language].text}</p>
+                      </div>`);
+              }
 
               $(".sidebar").append(`
                 <div class="linkylink">
