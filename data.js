@@ -3,7 +3,7 @@ var intro = {
   title: "Hei!",
   nl: {
     text: `Ik ben Suzanna Wentzel. Voor mijn minor ben ik vijf maanden<br>
-      in het buitenland, op exchange in University of Agder (Noorwegen).<br>
+      in het buitenland, op uitwisseling bij University of Agder in Noorwegen.<br>
       Hier ga ik de vakken "Scripting and Hacking" en "Application Development" <br>
       volgen. Daarnaast ben ik van plan om de hele omgeving te ontdekken. <br>
       Hier zal ik de filmpjes, foto's en verhalen van mijn avontuur plaatsen.<br>
@@ -11,62 +11,35 @@ var intro = {
   },
   en: {
     text: `My name is Suzanna Wentzel. I am on exchange in Norway at UiA for <br>
-      my minor for five months, where I will follow the courses "Scripting <br>
-      and Hacking" and "Application Development". In addition to that, I will<br>
-      explore the surroundings and hopefully find awesome stories to share.<br>
-      On this webpage I will share my videos, photos and stories about this<br>
+      my minor. I will stay here for five months, and I will follow the courses<br>
+      "Scripting and Hacking" and "Application Development". In addition to that, <br>
+      I will explore the surroundings and hopefully find awesome stories to share.<br>
+      On this webpage I will show you my videos, photos and stories about this<br>
       adventure. Have fun reading it!`
   }
 }
 
 var blogposts = [
   {
-    date: "00/00/0000",
-    img: "./images/trees_road_sun.jpg",
+    date: "08/08/2018",
+    img: "./images/packing_bags.jpg",
     vid: "",
     nl: {
-      title: "hallo",
-      text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br>
-        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut <br>
-        aliquip ex ea commodo consequat. Duis aute irure dolor in <br>
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat <br>
-        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt<br>
-        in culpa qui officia deserunt mollit anim id est laborum.`
+      title: "Bagage",
+      text: `Vandaag ben ik hard bezig geweest met de laatste voorbereidingen <br>
+        voor mijn reis. De koffer moest dicht, wat super moeilijk was aangezien <br>
+        ik voor vijf maanden moest pakken (zie de foto hiernaast). Het is <br>
+        uiteindelijk gelukt en hij puilt niet eens zo heel erg uit. Morgen begint <br>
+        de reis, ik ben heel benieuwd naar de mensen, het landschap en de uni, <br>
+        ik ben er klaar voor!`
     },
     en: {
-      title: "hello",
-      text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br>
-        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut <br>
-        aliquip ex ea commodo consequat. Duis aute irure dolor in <br>
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat <br>
-        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt<br>
-        in culpa qui officia deserunt mollit anim id est laborum.`
-    }
-  },{
-    img: "",
-    vid: "",
-    date: "00/00/0000",
-    nl: {
-      title: "hallo",
-      text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br>
-        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut <br>
-        aliquip ex ea commodo consequat. Duis aute irure dolor in <br>
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat <br>
-        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt<br>
-        in culpa qui officia deserunt mollit anim id est laborum.`
-    },
-    en: {
-      title: "hello",
-      text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br>
-        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut <br>
-        aliquip ex ea commodo consequat. Duis aute irure dolor in <br>
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat <br>
-        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt<br>
-        in culpa qui officia deserunt mollit anim id est laborum.`
+      title: "Luggage",
+      text: `Today I did the last preparations for my journey. My suitcase should <br>
+        be able to close, which was super hard since I had to pack for five <br>
+        months (see the picture on the right). Eventually it closed and it&#39s not <br>
+        even that full. Tomorrow the journey actually begins, I&#39m very curious <br>
+        for the people, the landscapes and the university, I&#39m ready to go!`
     }
   }
 ]
