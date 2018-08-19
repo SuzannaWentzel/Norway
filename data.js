@@ -110,5 +110,81 @@ var blogposts = [
         After the swim it was already half past nine, and we still had not eaten <br>
         anything, so we went getting groceries and had some food.`
     }
+  } , {
+      date: "15/08/2018",
+      img: "./images/hike_intro.jpg",
+      vid: "",
+      nl: {
+        title: "Intro",
+        text: `In de eerste week hebben er een heleboel introductie <br>
+          activiteiten plaatsgevonden. Zo was er vrijdag speciaal voor de <br>
+          internationale studenten een introductie dag om kennis te maken met <br>
+          Noorwegen en zijn we overspoeld met allemaal leuke feitjes. Daarna <br>
+          hebben we een groepsfoto gemaakt en de campus verkend. Als afsluiting<br>
+          van de dag zijn we nog met een aantal mensen in de zee gaan zwemmen; <br>
+          de zon scheen weer en het was niet heel koud. <br><br>
+          Zaterdag mochten we Grimstad verkennen. Eerst kregen we een <br>
+          rondleiding door het gemeentehuis en daarna zijn we met de <br>
+          burgemeester en een geweldige tour guide door Grimstad gelopen. We <br>
+          kregen onder andere oude verhalen over de Vikingen en hun boten te <br>
+          horen en de guide liet ons het enige stoplicht in de hele stad <br>
+          zien (waar ze nogal trots op zijn :P ). <br><br>
+          Een verhaal wat leuk was om te horen, was dat Grimstads gouden eeuw <br>
+          (ergens in de negentiende eeuw) door de boten kwam. Er liepen toen <br>
+          drie wegen door Grimstad, die er gemaakt waren om de materialen voor <br>
+          de boten naar de plaatsen waar de scheepsbouw plaats vond te brengen. <br>
+          Rond die tijd waren er rond de veertig van die scheepswerven in en <br>
+          rond Grimstad, wat het een van de grootste scheepsbouw centra in de <br>
+          wereld maakte. Helaas zijn er nog maar enkele scheepswerven van over.<br><br>
+          Zondag was een relax-dag en zijn we laat opgestaan om te hiken. We <br>
+          gingen niet zo snel en op de top van een berg zijn we even gestopt <br>
+          om van het uitzicht te genieten, in de verte tussen de bomen zagen <br>
+          we een meer (zo mooi!) en bij het afdalen zijn we langs dat meer <br>
+          gelopen en daar weer gestopt om te zwemmen en te chillen. Tijdens de <br>
+          tocht hebben we wilde rode bosbessen, blauwe bessen en zelfs <br>
+          klavertjes geproefd, heel lekker! <br><br>
+          Op maandag werden we ingedeeld in een Fadder groep, een groepje met <br>
+          eerstejaars studenten en exchange studenten die ongeveer dezelfde <br>
+          studie doen. De rest van de week waren er een hoop leuke feesten met <br>
+          goede bands en sport- en spel activiteiten, die we soms met de Fadder <br>
+          groep en vooral met de Erasmus groep gedaan hebben. Ik heb een hoop <br>
+          nieuwe mensen ontmoet en we hebben een hoop lol gehad!`
+      },
+      en: {
+        title: "Intro",
+        text: `A lot of introduction activities took place in the first week. <br>
+          Friday, the first real day in Norway, was a special introduction day <br>
+          for the international students, to get to know Norway and the <br>
+          Norwegians. We were spammed with a lot of fun facts. Afterwards, we <br>
+          took a group picture and explored the campus. To conclude the day, <br>
+          we went swimming in the sea again (with a bigger group of people this <br>
+          time), the sun was shining again and it wasn&#39t that cold. <br><br>
+          On Saturday, we got to explore Grimstad. First we got a tour through <br>
+          the town hall, where we met the major. Then we got a tour through <br>
+          Grimstad, with the major and an awesome tour guide. He told us some <br>
+          old stories, about the Vikings and their boats for example, and he <br>
+          showed us the one and only traffic light (of which they are very <br>
+          proud :P ) in town. <br><br>
+          One very interesting story was about the Golden age of Grimstad. It <br>
+          started somewhere in the ninth century, because of their boats. At <br>
+          that time, there existed three roads in Grimstad, all to transport <br>
+          materials to the places where the boats were made. It is known that <br>
+          they had around forty of those shipyards in and around Grimstad, <br>
+          which made Grimstad one of the biggest centers for shipbuilding in <br>
+          the world. Sadly, only few of those shipyards are left. <br><br>
+          Sunday was a relaxing day, we could wake up late and went hiking. We <br>
+          didn&#39t walk that fast and on the top of the mountain/hill, we stopped <br>
+          to watch the amazing view. In the distance, we could see a lake <br>
+          between the trees (so beautiful!), and when we descended the hill, we <br>
+          visited it to chill and swim. During the hike, we found a lot of <br>
+          stuff we could eat; lingonberries, blueberries and even some edible <br>
+          clovers, yum! <br><br>
+          On Monday we got to know our Fadder groups, a group with freshman <br>
+          and exchange students of the same study field. The rest of the week, <br>
+          a lot of parties were organised with cool bands and sports and game <br>
+          activities took place which we did sometimes with the Fadder group, <br>
+          but mostly with the Erasmus group. I met a lot of new people and we <br>
+          had a lot of fun!`
+      }
   }
 ]
