@@ -199,15 +199,16 @@ var blogposts = [
         super lekkere chocolade taart voor me gemaakt! Eider, mijn huisgenootje, <br>
         had super lekkere ham uit Spanje meegenomen wat ze met ons wilde delen <br>
         voor mijn verjaardag en daarna hebben we met z&#39n vieren pizza gebakken <br>
-        en opgegeten. Toen zijn we spelletjes gaan doen en kwamen er steeds <br>
-        meer mensen bij, totdat we uiteindelijk met ongeveer vijfentwintig man <br>
-        in mijn kamer en de keuken zaten, er pasten niet veel mensen meer bij. <br>
-        Een hoop van de mensen die kwamen hadden ook nog iets lekkers mee, zoals <br>
-        een appeltaart en gesuikerde amandelen, dus we hadden een hoop lekkers <br>
-        bij elkaar verzameld. We hebben veel spelletjes gespeeld en zijn tot <br>
-        vrij laat door gegaan. Ondanks dat ik een hoop mensen mis en niet thuis <br>
-        was, was het een super leuke verjaardag! Super lief dat er zoveel mensen<br>
-        gekomen waren of me een lief berichtje hebben gestuurd :). `
+        en opgegeten. <br><br>
+        Toen zijn we spelletjes gaan doen en kwamen er steeds meer mensen bij, <br>
+        totdat we uiteindelijk met ongeveer vijfentwintig man in mijn kamer en <br>
+        de keuken zaten, er pasten niet veel mensen meer bij. Een hoop van de <br>
+        mensen die kwamen hadden ook nog iets lekkers mee, zoals een appeltaart <br>
+        en gesuikerde amandelen, dus we hadden een hoop lekkers bij elkaar <br>
+        verzameld. We hebben veel spelletjes gespeeld en zijn tot vrij laat door <br>
+        gegaan. Ondanks dat ik een hoop mensen mis en niet thuis was, was het <br>
+        een super leuke verjaardag! Super lief dat er zoveel mensen gekomen <br>
+        waren en me lieve berichtjes hebben gestuurd :). `
     },
     en: {
       title: "Birthday",
@@ -216,7 +217,7 @@ var blogposts = [
         one o&#39clock. When I got home, I made a lot of cupcakes and I relaxed for <br>
         a while, until Rik and his roommate Lucas came with an enormous <br>
         chocolate pie! Then Eider brought us amazing ham from Spain, because of <br>
-        my birthday and we made pizza with the four of us, it was all delicious. <br>
+        my birthday and we made pizza with the four of us, it was all delicious. <br><br>
         When we had cleaned everything, we started playing some games and more <br>
         people joined us, until my room and the kitchen were full with about <br>
         twenty-five persons. A lot of those persons brought something to eat, <br>
