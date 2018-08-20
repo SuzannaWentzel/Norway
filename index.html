@@ -50,7 +50,7 @@
                         <h2>${post.date}</h2>
                         <h1>${post[language].title}</h1>
                         <img class="post_image" src="${post.img}">
-                        <p>${post[language].text}</p>
+                        <div class="posttext"><p>${post[language].text}</p></div>
                         <div class="empty"></div>
                       </div>`);
               } else if (post.vid !== "") {
@@ -62,7 +62,7 @@
                           src="${post.vid}" frameborder="0"
                           allow="autoplay; encrypted-media"
                           allowfullscreen></iframe>
-                        <p>${post[language].text}</p>
+                        <div class="posttext"><p>${post[language].text}</p></div>
                         <div class="empty"></div>
                       </div>`);
               } else {
@@ -70,7 +70,7 @@
                       <div class="blogpost" id="${i}">
                         <h2>${post.date}</h2>
                         <h1>${post[language].title}</h1>
-                        <p>${post[language].text}</p>
+                        <div class="posttext"><p>${post[language].text}</p></div>
                       </div>`);
               }
 

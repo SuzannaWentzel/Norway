@@ -173,6 +173,11 @@ table {
   font-size: 16px;
 }
 
+.posttext {
+	max-width: 500px;
+	width: 100%;
+}
+
 .blogpost p {
   line-height: 1.2;
   font-size: 16px;
