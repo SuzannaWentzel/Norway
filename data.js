@@ -186,5 +186,45 @@ var blogposts = [
           but mostly with the Erasmus group. I met a lot of new people and we <br>
           had a lot of fun!`
       }
+  }, {
+    date: "17/08/2018",
+    img: "",
+    vid: "",
+    nl: {
+      title: "Verjaardag",
+      text: `Vandaag was mijn verjaardag :D. In de ochtend hadden we een <br>
+        college en daarna een werkcollege, maar om een uur waren we alweer <br>
+        klaar. Daarna heb ik een hele hoop cupcakes gebakken en nog wat <br>
+        gerelaxt, totdat Rik en zijn huisgenoot Lucas kwamen. Ze hadden een <br>
+        super lekkere chocolade taart voor me gemaakt! Eider, mijn huisgenootje, <br>
+        had super lekkere ham uit Spanje meegenomen wat ze met ons wilde delen <br>
+        voor mijn verjaardag en daarna hebben we met z&#39n vieren pizza gebakken <br>
+        en opgegeten. Toen zijn we spelletjes gaan doen en kwamen er steeds <br>
+        meer mensen bij, totdat we uiteindelijk met ongeveer vijfentwintig man <br>
+        in mijn kamer en de keuken zaten, er pasten niet veel mensen meer bij. <br>
+        Een hoop van de mensen die kwamen hadden ook nog iets lekkers mee, zoals <br>
+        een appeltaart en gesuikerde amandelen, dus we hadden een hoop lekkers <br>
+        bij elkaar verzameld. We hebben veel spelletjes gespeeld en zijn tot <br>
+        vrij laat door gegaan. Ondanks dat ik een hoop mensen mis en niet thuis <br>
+        was, was het een super leuke verjaardag! Super lief dat er zoveel mensen<br>
+        gekomen waren of me een lief berichtje hebben gestuurd :). `
+    },
+    en: {
+      title: "Birthday",
+      text: `Today was my birthday :D. In the morning we had a lecture, and <br>
+        afterwards we had a seminar, but we were already done with classes at <br>
+        one o&#39clock. When I got home, I made a lot of cupcakes and I relaxed for <br>
+        a while, until Rik and his roommate Lucas came with an enormous <br>
+        chocolate pie! Then Eider brought us amazing ham from Spain, because of <br>
+        my birthday and we made pizza with the four of us, it was all delicious. <br>
+        When we had cleaned everything, we started playing some games and more <br>
+        people joined us, until my room and the kitchen were full with about <br>
+        twenty-five persons. A lot of those persons brought something to eat, <br>
+        like an apple pie and sugared almonds, so we had a lot of nice food. We <br>
+        played many games and the party continued until it was pretty late. <br>
+        Although I miss a lot of people and although I wasn&#39t at home, it was <br>
+        an amazing birthday! It was super nice that so many people came to my <br>
+        party and sent me sweet messages :).`
+    }
   }
 ]
