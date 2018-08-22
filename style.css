@@ -136,6 +136,11 @@ table {
   margin-bottom: 20px;
 }
 
+.introText {
+	width: 100%;
+	max-width: 950px;
+}
+
 .intro p {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;

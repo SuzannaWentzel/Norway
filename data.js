@@ -2,19 +2,19 @@ var intro = {
   img: "./images/profile_picture.jpeg",
   title: "Hei!",
   nl: {
-    text: `Ik ben Suzanna Wentzel. Voor mijn minor ben ik vijf maanden<br>
-      in het buitenland, op uitwisseling bij University of Agder in Noorwegen.<br>
-      Hier ga ik de vakken "Scripting and Hacking" en "Application Development" <br>
-      volgen. Daarnaast ben ik van plan om de hele omgeving te ontdekken. <br>
-      Hier zal ik de filmpjes, foto's en verhalen van mijn avontuur plaatsen.<br>
+    text: `Ik ben Suzanna Wentzel. Voor mijn minor ben ik vijf maanden
+      in het buitenland, op uitwisseling bij University of Agder in Noorwegen.
+      Hier ga ik de vakken "Scripting and Hacking" en "Application Development"
+      volgen. Daarnaast ben ik van plan om de hele omgeving te ontdekken.
+      Hier zal ik de filmpjes, foto's en verhalen van mijn avontuur plaatsen.
       Veel plezier met het bekijken ervan!`
   },
   en: {
-    text: `My name is Suzanna Wentzel. I am on exchange in Norway at UiA for <br>
-      my minor. I will stay here for five months, and I will follow the courses<br>
-      "Scripting and Hacking" and "Application Development". In addition to that, <br>
-      I will explore the surroundings and hopefully find awesome stories to share.<br>
-      On this webpage I will show you my videos, photos and stories about this<br>
+    text: `My name is Suzanna Wentzel. I am on exchange in Norway at UiA for
+      my minor. I will stay here for five months, and I will follow the courses
+      "Scripting and Hacking" and "Application Development". In addition to that,
+      I will explore the surroundings and hopefully find awesome stories to share.
+      On this webpage I will show you my videos, photos and stories about this 
       adventure. Have fun reading it!`
   }
 }
@@ -224,7 +224,7 @@ var blogposts = [
         like an apple pie and sugared almonds, so we had a lot of nice food. We
         played many games and the party continued until it was pretty late.
         Although I miss a lot of people and although I wasn&#39t at home, it was
-        an amazing birthday! It was super nice that so many people came to my 
+        an amazing birthday! It was super nice that so many people came to my
         party and sent me sweet messages :).`
     }
   }
