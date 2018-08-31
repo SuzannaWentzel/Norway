@@ -14,7 +14,7 @@ var intro = {
       my minor. I will stay here for five months, and I will follow the courses
       "Scripting and Hacking" and "Application Development". In addition to that,
       I will explore the surroundings and hopefully find awesome stories to share.
-      On this webpage I will show you my videos, photos and stories about this 
+      On this webpage I will show you my videos, photos and stories about this
       adventure. Have fun reading it!`
   }
 }
@@ -226,6 +226,49 @@ var blogposts = [
         Although I miss a lot of people and although I wasn&#39t at home, it was
         an amazing birthday! It was super nice that so many people came to my
         party and sent me sweet messages :).`
+    }
+  }, {
+    date: "18/08/2018",
+    img: "./images/color_festival.jpg",
+    vid: "",
+    nl: {
+      title: "Color Festival",
+      text: `Vandaag was een kleurige dag, we gingen met een hele groep van de
+        Erasmus mensen naar het Color Festival! Het Color Festival is een versie
+        van de Color Run in Grimstad, waarbij je 5 km door kleurig poeder rent
+        en dan nog een groot kleurtjes-feest mag meemaken. <br><br>
+        Het was nog droog toen we bij de eerste kleur aankwamen (roze), maar
+        toen we bij blauw aan kwamen begon het keihard te regenen. Toen waren
+        alle kleurtjes uitgelopen en waren we rennende kunstwerken.. Maar na
+        tien minuutjes was het niet zo erg meer en toen kwamen de rest van de
+        kleuren. Aan het einde van de race waren we compleet gekleurd, met alle
+        kleurtjes van de regenboog. <br><br>
+        Blijkbaar is het hier ook een traditie om na de color run in de zee te
+        springen (met alle gekleurde kleding nog aan), het feest was aan zee.
+        Dus daar hebben ik en nog wat andere mensen ook aan mee gedaan. Toen
+        we uit het water kwamen waren we helemaal een mengeling van alle kleuren
+        en nogal koud. Toen hebben we (zeiknat nog steeds) gefeest. Toen ik thuis
+        was heb ik een hele lange warme douche genomen :).`
+    },
+    en: {
+      title: "Color Festival",
+      text: `Today was a colorful day, we went to the Color Festival with a big
+        group of the Erasmus people! The Color Festival is a version of the Color
+        Run, in Grimstad, where you have to run 5 km through colored powders.
+        Afterwards there was an enormous color-party. <br><br>
+	      It was still dry when we got to the first color (pink), but when we
+        reached the blue color, it started to rain really hard. Then all of the
+        colors had run and we became running artworks.. After ten minutes the
+        rain wasn&#39t that bad anymore and we went through the rest of the colors.
+        At the end of the race we were completely covered in all colors of the
+        rainbow. <br><br>
+	      Apparently it is a tradition to go swimming in the sea after the color
+        run (with all colored clothes still on), the party was next to the sea.
+        So I joined other people following that tradition. When we came out of
+        the water, we were all painted with the colors and we were pretty cold.
+        Then we partied some more (still completely wet). When I finally came
+        home, I took a very long shower :).
+`
     }
   }
 ]
