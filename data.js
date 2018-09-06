@@ -267,8 +267,65 @@ var blogposts = [
         So I joined other people following that tradition. When we came out of
         the water, we were all painted with the colors and we were pretty cold.
         Then we partied some more (still completely wet). When I finally came
-        home, I took a very long shower :).
-`
+        home, I took a very long shower :).`
+      }
+    }, {
+      date: "19/08/2018",
+      img: "./images/boat_trip_Grimstad.jpg",
+      vid: "",
+      nl: {
+        title: "Vaartocht",
+        text: `Tijdens de introweek waren we uitgenodigd voor een gratis
+          vaartocht langs de kust, dus daar gingen we met een hoop mensen heen.
+          Toen we in de haven aankwamen, lag daar een enorme (houten?) boot met
+          hele hoge masten en veel touwen en zeilen. We werden verwelkomt door
+          de bemanning en de kapitein en toen iedereen aan boord was gingen we
+          op weg, niet met de zeilen maar met een motor. <br><br>
+          De tocht was erg mooi, we vaarden immers langs de kust. Er zijn een
+          hoop inhammen en er liggen heel veel eilandjes. We kwamen er ook veel
+          andere boten en mensen tegen, die van dit idyllische landschap
+          genoten. Op een gegeven moment waren we alle eilanden voorbij en
+          kwamen we op open zee, het schip deinsde hoog op de golven en de wind
+          waaide om onze oren. <br><br>
+          Toen het net koud begon te worden keerden we weer om en vaarden we
+          naar een inham van een eiland, een hele mooie plaats. Het water was
+          heel helder, en er was veel begroeiing op het eiland. Toen we stil
+          lagen legde de kapitein uit dat mensen daar mochten zwemmen. Het was
+          iets van 17 &#176C, maar sommige mensen waren dapper en sprongen vanaf
+          de touwladders naar de mast het water in. Anderen klommen via deze
+          touwladders omhoog, de mast in, om van het uitzicht te genieten.
+          Ik bleef lekker op het bankje in de boot zitten genieten van het
+          uitwaaien. <br><br>
+          Daarna vaarden we weer terug naar de haven, en sloten we de dag af
+          met een wel verdiende &#8220;Tusen takk!&#8221 (letterlijk vertaald: duizend maal
+          dank, maar hier een normale uitdrukking voor dankjewel), de tocht
+          was prachtig. <br><br>`
+      },
+      en: {
+        title: "Boat trip",
+        text: `During the introduction week we were invited for a free boat
+          trip along the coast, so we went there with quite a group of people.
+          When we arrived in the harbor, an enormous wooden boat with high masts
+          and a lot of ropes and sails was moored to the dock. We were welcomed
+          on the ship by the captain and the crew. When everybody was on board
+          we went sailing, but not with the sails, with the motor. <br><br>
+          The trip was really beautiful, we went along the coast after all.
+          There were many big and small islands. We also came across a lot of
+          other people with their boats who also enjoyed this idyllic place. At
+          some point we had passed all the islands and we were at the open sea.
+          The ship was bouncing high on the waves and there was a lot of wind. <br><br>
+          Just when it started to get cold, we turned around and sailed back to
+          an inlet in an island, a very beautiful place. The water was clear and
+          a lot of plants grew on this island. When the boat had stopped the
+          captain explained that we could swim there if we wanted to. I think
+          it was about 17 &#176C, but some people were brave and jumped from
+          the rope ladder to the mast in to the water. Other people just climbed
+          up the mast and enjoyed the view. I just sat on the bench in the boat
+          enjoying the wind and the fresh air. <br><br>
+          Afterwards we sailed back to the harbor and closed the day with a
+          well deserved &#8220Tusen Takk!&#8221 (literally translated: a thousand thanks,
+          but here it&#39s just an expression that is used daily), the trip was
+          amazing!`
+      }
     }
-  }
 ]
