@@ -278,7 +278,7 @@ var blogposts = [
         text: `Tijdens de introweek waren we uitgenodigd voor een gratis
           vaartocht langs de kust, dus daar gingen we met een hoop mensen heen.
           Toen we in de haven aankwamen, lag daar een enorme (houten?) boot met
-          hele hoge masten en veel touwen en zeilen. We werden verwelkomt door
+          hele hoge masten en veel touwen en zeilen. We werden verwelkomd door
           de bemanning en de kapitein en toen iedereen aan boord was gingen we
           op weg, niet met de zeilen maar met een motor. <br><br>
           De tocht was erg mooi, we vaarden immers langs de kust. Er zijn een
@@ -326,6 +326,85 @@ var blogposts = [
           well deserved &#8220Tusen Takk!&#8221 (literally translated: a thousand thanks,
           but here it&#39s just an expression that is used daily), the trip was
           amazing!`
+      }
+    }, {
+      date: "24/08/2018",
+      img: "./images/View_blueberry_hike.jpg",
+      vid: "",
+      nl: {
+        title: "Bessen Hike",
+        text: `Vandaag was een hele gave dag! We hadden eerder al een hike
+          gedaan waar ik het in de derde post over had en toen hadden we heel
+          veel wilde blauwe bessen gevonden. We hadden toen helaas geen spullen
+          mee om ze in mee te nemen, dus hebben we ze niet mee genomen. Daarom
+          besloten we om nog een keer te gaan, dit keer voorbereid. <br><br>
+          Gelijk nadat iedereen klaar was met uni verzamelden we en gingen we op
+          pad. We namen dit keer een omweg naar een plek waar we de eerdere hike
+          al gedaan hadden. De zon scheen en de lucht was strak blauw, we hadden
+          geen betere dag uit kunnen kiezen. Na een half uur lopen waren we in
+          het bos aangekomen en gingen we op zoek naar de bessen. Iedereen had
+          tasjes en doosjes mee en zo klommen we de bosjes door. <br><br>
+          Nadat we een flinke tijd bessen geplukt hadden, hadden we er flink
+          veel verzameld. We kwamen ook nog lingonberries en nep blauwe bessen
+          tegen. Van de laatste wisten we niet of we ze konden eten, dus hebben
+          we die maar achter gelaten. De lingonberries waren bitter en zuur en
+          er waren er helaas niet veel van, dus die hebben we ook niet meegenomen.
+          Toen we iedereen weer bij elkaar hadden gingen we weer op weg terug. <br><br>
+          Ergens nog in de buurt van het bos kwamen we een interessant paadje
+          tegen, die vrij steil een berg opging. Lucas en Lukas wilden graag
+          weten wat er boven was, dus zijn we met z&#39n allen omhoog geklommen.
+          Het was er zo mooi! Je kan het je inbeelden: een modderig steil paadje
+          tussen de rotsen en bomen omhoog, soms zie je gouden zonnestralen door
+          de bomen op het pad. Op een gegeven moment verdwenen de bomen en waren
+          er alleen nog rotsen en struiken, en daar was ook een uitkijkpunt, het
+          mooiste van allemaal. <br><br>
+          Grimstad ligt in een soort dal, aan zee en omringt met heuvels en half
+          op de heuvels. Op dat uitkijkpunt kon je super mooi over de stad en de
+          kust uitkijken, en in de verte kon je de zee, eilandjes en rotsen zien. <br><br>
+          Toen we daar een tijdje gezeten hadden begonnen we toch wel honger te
+          krijgen, dus zijn we maar naar huis gegaan. Daar hebben we eerst alle
+          blauwe bessen uitgezocht en schoon gemaakt, en toen hebben we daarmee
+          blauwe bessen pannenkoeken gemaakt. Ze smaakten zo enorm lekker! En
+          toen we klaar waren met eten hadden we zelfs nog een hoop bessen over,
+          dus hebben we later nog een blauwe bessen cake en blauwe bessen
+          koekjes gemaakt, die waren ook heerlijk.`
+      },
+      en: {
+        title: "Blueberry Hike",
+        text: `Today was an awesome day! We did a hike before (I shortly talked
+          about it in the third post) where we saw a lot of blue berries. Then
+          we had no boxes or bags to take the blueberries with us, so we didn&#39t
+          pick them. We decided that we would return there to pick a lot of
+          them another time, when we would be prepared. <br><br>
+          When we were done with university and gathered everyone, we set off to
+          the woods. This time we took a detour to the place we went before. The
+          sun was shining, and the sky was clear blue, we couldn&#39t have chosen
+          a better day. After a half an hour walk, we arrived at the woods and
+          started looking for berries. Everyone brought bags and boxes, and that
+          is how we climbed through the bushes on our quest for berries. <br><br>
+          After a while we had gathered a lot of berries. We also found
+          lingonberries and fake blueberries, but we didn&#39t know if the fake
+          blueberries were safe, so we left them at the woods. The lingonberries
+          were really sour and bitter, and there were not much of them unfortunately
+          so we left them there too. When everyone was at the meeting point, we
+          headed back to university. <br><br>
+          Somewhere near the woods, we found an interesting path that went
+          steeply up a hill. Lucas and Lukas wanted to know where that path would
+          lead us, so we just climbed up there to see. And it was so beautiful!
+          You can imagine, a steep muddy path between rocks and trees, some
+          golden sunrays through the leaves of the trees onto the path. At some
+          point the trees disappeared, and only bushes and rocks were left.
+          Suddenly we saw the view, most stunning of all. <br><br>
+          Grimstad is located in a valley at sea, half on the hills, half
+          surrounded with hills. At the viewpoint we could see the town and the
+          coastline, in the distance you could see the rough sea with islands
+          and big rocks. <br><br>
+          When we sat there for a while, we started to get hungry and we went
+          home. There we picked out the bad blueberries and cleaned the good
+          ones, and then we made blueberry pancakes with them. They tasted so
+          good, sweet, sour and fluffy! When we finished all the pancakes, we
+          still had a lot of berries left, so we made another blueberry cake and
+          blueberry cookies, which were also delicious.`
       }
     }
 ]

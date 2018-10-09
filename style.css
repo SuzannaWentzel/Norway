@@ -193,6 +193,7 @@ table {
 	width: 100%;
 	max-width: 500px;
 	padding-bottom: 30px;
+	padding-top: 20px;
 	float: right;
 	display: inline-block;
 }
