@@ -406,5 +406,63 @@ var blogposts = [
           still had a lot of berries left, so we made another blueberry cake and
           blueberry cookies, which were also delicious.`
       }
+    }, {
+      date: "26/08/2018",
+      img: "./images/cathedral_kristiansand.jpg",
+      vid: "",
+      nl: {
+        title: "Kristiansand",
+        text: `De Baskische en Catalaanse mensen gingen naar Kristiansand en
+         vroegen mij mee. Dat ging ik graag! Er was daar ook een gratis boottour
+         georganiseerd, dat leek ons super leuk. Deze boottocht was helaas wel
+         heel druk, er was amper ruimte om te zitten, maar het uitzicht maakte
+         alles goed. We voeren langs de kust van Kristiansand, dat was echt heel
+         erg mooi. Er waren net als in Grimstad allemaal eilandjes en rotsen, en
+         net iets meer cabins en huisjes. Ook vandaag hadden we weer mazzel met
+         het weer, het zonnetje scheen en er waren maar een paar wolkjes in de
+         lucht te vinden. <br><br>
+         Toen de boottocht over was, gingen we Kristiansand in. Eerst hebben we
+         even rondgelopen in de stad, er was een mooie kathedraal te zien. We hadden
+         ondertussen ook best honger gekregen, dus daar gingen we naar de
+         McDonalds. Ik probeerde er een McFlurry met een Noorse chocomelk smaak.
+         Die was super lekker! Met het eten zijn we naar de haven gelopen en
+         daar hebben we even lekker gezeten en op het water uitgekeken. <br><br>
+         Daarna gingen we weer op pad, er was vlakbij een fort met oude kanonnen,
+         dat was best vet, alhoewel we niet begrepen hoe het vroeger de stad had
+         moeten beschermen (de locatie was een beetje vreemd). Er was ook weer
+         het mooie uitzicht op de zee. Na even gechilld te hebben in het gras
+         gingen we het oude gedeelte van de stad in. Daar waren allemaal
+         schattige witte houten huisjes, een paar straten lang. Het was heel
+         leuk om te zien, huisjes in de oude stijl. <br><br>
+         Na deze lange dag gingen we naar huis, we hebben weer een hoop mooie
+         dingen gezien.`
+      },
+      en: {
+        title: "Kristiansand",
+        text: `The Basque and Catalan people went to Kristiansand and asked me
+         to join. I loved to! A free boat tour was organized, we thought that
+         would be great. This boat tour was very crowded unfortunately, there
+         was barely any space to sit, but the views made up for all of it. We
+         sailed past the coast of Kristiansand, which was really beautiful. Like
+         Grimstad, a lot of rocks and islands surrounded the coastline, but
+         there were a bit more cabins and houses, really nice. The weather was
+         again really nice, it was sunny and we could see only just a few clouds
+         in the sky. <br><br>
+         When the boat returned to the harbor, we went into Kristiansand. First
+         we just walked around in the city, we saw a really nice cathedral. We also
+         got a bit hungry, so we went to the McDonalds. I wanted to try a
+         Norwegian McFlurry, so I tried one with O&#39boy, Norwegian hot choco. It
+         was super tasty! With the food we walked to the harbor, there we sat
+         for a while and looked at the water. <br><br>
+         When we all finished our food, we went to a fort nearby, with a lot of
+         old cannons. That was pretty cool, though we couldn&#39t really imagine
+         how this fort should have defended the city (it was placed oddly,
+         between two headlands). Again, we had the incredible view of the sea.
+         After we relaxed in the grass for a while, we went into the old town of
+         Kristiansand. The old town consists of a lot of old white wooden
+         houses, filling a couple of streets. The houses were really cute and
+         pretty, it was nice to see. <br><br>
+         After this long day we went home, we have seen a lot of nice things. `
+      }
     }
 ]
