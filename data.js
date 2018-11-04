@@ -464,5 +464,43 @@ var blogposts = [
          pretty, it was nice to see. <br><br>
          After this long day we went home, we have seen a lot of nice things. `
       }
+    }, {
+      date: "27/08/2018",
+      img: "",
+      vid: "",
+      nl: {
+        title: "Pasta",
+        text: `Diego en Birgitte (onze buddies) hebben me een pastamachine
+          uitgeleend, en die wilden we graag gaan uitproberen. Dus hadden we ze
+          uitgenodigd voor een pasta avond! Gisteren had ik al het meeste van de
+          pasta klaar gemaakt, en laten drogen. Vandaag was ik daar mee verder
+          gegaan. Bij de pasta had ik tomaatjes, pijnboompitjes, kaas en olijfolie
+          gehaald. Het ging helaas niet allemaal zoals gepland, alles klaarmaken
+          duurde langer dan gedacht. Ik was ook niet op m&#39n telefoon aan het
+          kijken, dus toen stonden Diego en Birgitte per ongeluk een kwartier
+          voor de deur te wachten, en het was nog wel zo koud buiten... Toen we ze
+          door het raam hoorden roepen hebben we ze binnen gelaten! <br><br>
+          Diego en Birgitte hadden nog een salade gemaakt, en toen alles eenmaal
+          klaar was begonnen we met eten. De zelf gemaakte pasta was super
+          lekker! Helemaal met al die lekkere verse dingetjes erbij. Het was ook
+          super gezellig, na al die chaos werd het een super fijne avond.`
+      },
+      en: {
+        title: "Pasta",
+        text: `Diego and Birgitte (our buddies) borrowed me a pasta-maker
+          machine, and now we wanted to try it out. So we invited them for a
+          pasta evening! Yesterday I made and dried most of the pasta already.
+          Today I continued making pasta, I still had a bit of dough left. For
+          the pasta I bought cherry tomatoes, pine nuts, cheese and olive oil.
+          Making the pasta didn&#39t go that smoothly, it took a bit longer than
+          expected. I was also not checking my phone, so Diego and Birgitte were
+          waiting to get in the building for fifteen minutes, and it was so cold
+          outside! When we heard them yelling through the window we quickly let
+          them in. <br><br>
+          Diego and Birgitte made a salad, and when everything was done, we
+          started dining. The homemade pasta was super tasty! Especially with
+          all those nice fresh things. It was also super cozy, after all the
+          chaos it was a really nice and happy evening.`
+      }
     }
 ]
