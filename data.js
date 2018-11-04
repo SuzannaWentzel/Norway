@@ -302,7 +302,7 @@ var blogposts = [
           was prachtig. <br><br>`
       },
       en: {
-        title: "Boat trip",
+        title: "Boat Trip",
         text: `During the introduction week we were invited for a free boat
           trip along the coast, so we went there with quite a group of people.
           When we arrived in the harbor, an enormous wooden boat with high masts
@@ -507,7 +507,7 @@ var blogposts = [
       img: "./images/oliebollen.jpg",
       vid: "",
       nl: {
-        title: "Internationaal diner",
+        title: "Internationaal Diner",
         text: `Vandaag was er een internationaal diner! Het was een event van
           ESN (Erasmus Student Network), waarbij iedereen iets lekkers uit zijn
           eigen land maakt, en we daarna een super uitgebreid diner hadden. <br><br>
@@ -522,7 +522,7 @@ var blogposts = [
           van de andere landen te leren, cultureel en gezellig!`
       },
       en: {
-        title: "International dinner",
+        title: "International Dinner",
         text: `Today we had an international dinner! It was an event of ESN
           (Erasmus Student Network), everybody had to make some dish from their
           own country, and then we would gather and have a really big dinner. <br><br>
