@@ -502,5 +502,38 @@ var blogposts = [
           all those nice fresh things. It was also super cozy, after all the
           chaos it was a really nice and happy evening.`
       }
+    }, {
+      date: "30/08/2018",
+      img: "./images/oliebollen.jpg",
+      vid: "",
+      nl: {
+        title: "Internationaal diner",
+        text: `Vandaag was er een internationaal diner! Het was een event van
+          ESN (Erasmus Student Network), waarbij iedereen iets lekkers uit zijn
+          eigen land maakt, en we daarna een super uitgebreid diner hadden. <br><br>
+          Rik en ik hadden oliebollen gemaakt, het is nog best lastig om een
+          Nederlands gerecht te bedenken (we hadden geen zin in stamppot). Toen
+          we klaar waren stonk de hele keuken naar olie, maar ze waren wel super
+          goed gelukt. <br><br>
+          Iedereen had super goed z&#39n best gedaan, er waren super veel lekkere
+          dingen. Er was Spaanse omelet, cr&#232me br&#251l&#233e, aardappelpuree,
+          cr&#234pes en nog een hoop meer zoete en zoute gerechten. Daarnaast was
+          het ook een leuke avond om iedereen nog goed te leren kennen en meer
+          van de andere landen te leren, cultureel en gezellig!`
+      },
+      en: {
+        title: "International dinner",
+        text: `Today we had an international dinner! It was an event of ESN
+          (Erasmus Student Network), everybody had to make some dish from their
+          own country, and then we would gather and have a really big dinner. <br><br>
+          Rik and I made oliebollen, it was hard to come up with a Dutch dish
+          (we didn&#39t want to make stamppot). When we finished making them, the
+          whole apartment smelled like oil. But the oliebollen turned out great! <br><br>
+          Everybody made really nice things, it was a lot. People made Spanish
+          omelet, cr&#232me br&#251l&#233e, mashed potatoes, crepes and a lot of other sweet
+          and savory dishes. Besides, it was a really nice opportunity to get to
+          know everybody better and learn more about the other countries, cultural
+          and cozy!`
+      }
     }
 ]
