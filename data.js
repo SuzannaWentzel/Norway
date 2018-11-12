@@ -535,5 +535,47 @@ var blogposts = [
           know everybody better and learn more about the other countries, cultural
           and cozy!`
       }
+    }, {
+      date: "02/09/2018",
+      img: "./images/mushrooms.jpg",
+      vid: "",
+      nl : {
+        title: "Paddenstoelen Plukken",
+        text: `Vandaag hebben we een hele hoop paddenstoelen geplukt. Het was
+          een georganiseerde dag, eerst gingen we met de begeleiders en een
+          foldertje het bos in. We werden op verschillende paddenstoelen gewezen:
+          giftige paddenstoelen, lekkere paddenstoelen en smakeloze paddenstoelen. <br><br>
+          Daarna gingen we zelf het bos in, met plastic zakken en mesjes. In het
+          begin was het heel moeilijk om paddenstoelen te spotten, ze hadden
+          allemaal bosachtige kleuren. Toen we eenmaal paddenstoelen konden
+          vinden, was het nog heel moeilijk om de goede te vinden, de meeste
+          waren giftig! <br><br>
+          Toen we er een hoop verzameld hadden, gingen we weer terug naar het
+          begin. Daar stonden de gidsen met een uitstalling van paddenstoelen en
+          hun namen, en checkten alle gevonden paddenstoelen op eetbaarheid. Ook
+          was er een paddenstoelen soep en chutney, wat echt super lekker was. <br><br>
+          Na de check hadden we nog genoeg paddenstoelen over (kijk maar op de
+          afbeelding), dus konden we ook zelf soep maken. De soep was heerlijk,
+          een mooie afsluiting van de dag.`
+      },
+      en: {
+        title: "Mushroom Picking",
+        text: `Today we picked a lot of mushrooms. It was an organized event,
+          we went into the woods with guides and leaflets about the mushrooms.
+          We were showed a lot of different mushrooms: poisonous ones, tasty
+          mushrooms and tasteless ones. <br><br>
+          Then we went into the woods ourselves, with bags and knives. In the
+          beginning it was hard to spot the mushrooms, they were colored the same
+          way as the shades of the forest. When we finally found mushrooms, it
+          was hard to find the right ones, most of them were poisonous! <br><br>
+          When we collected a lot of mushrooms, we went back to the beginning.
+          There the guides displayed all the different mushrooms found and their
+          names with it. The guides also checked all mushrooms whether they were
+          edible or not. They also made a mushroom soup and a mushroom chutney,
+          that were both really tasty. <br><br>
+          After the check we had many mushrooms left (as you can see on the image),
+          so we made a soup ourselves as well. It was delicious, and a perfect
+          end of the day. <br><br>`
+      }
     }
 ]
