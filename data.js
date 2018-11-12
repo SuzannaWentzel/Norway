@@ -577,5 +577,22 @@ var blogposts = [
           so we made a soup ourselves as well. It was delicious, and a perfect
           end of the day. <br><br>`
       }
+    }, {
+      date: "15/09/2018",
+      img: "./images/first_bonfire.jpg",
+      vid: "",
+      nl: {
+        title: "Kampvuur",
+        text: `Vanaf vandaag mogen er weer kampvuren gemaakt worden in Noorwegen
+          (de periode ervoor is het te droog)! Dat hebben we dan ook gelijk
+          gedaan. We hadden een ukelele en marshmallows mee, het was een enorm
+          fijne avond :).`
+      }, en: {
+        title: "Bonfire",
+        text: `From the 15th of September and on you can make bonfires in Norway
+        (in the time before that it can be too dry)! So we did that as soon as
+        we could. We brought a ukulele and marshmallows, and had a great night
+        :).`
+      }
     }
 ]
