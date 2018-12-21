@@ -594,5 +594,65 @@ var blogposts = [
         we could. We brought a ukulele and marshmallows, and had a great night
         :).`
       }
+    }, {
+      date: "01/10/2018",
+      img: "./images/chris.jpg",
+      vid: "",
+      nl: {
+        title: "Chris",
+        text: `Deze week was Chris hier in Noorwegen :). Dat was zo fijn, ik
+          had hem zo gemist! De eerste paar dagen hebben we lekker rustig aan
+          gedaan, een beetje bij gekletst en een hoop filmpjes gekeken. <br><br>
+          Overdag hebben we verder vooral gelopen. We zijn naar Groos gegaan,
+          het strandje vlakbij de universiteit, maar ook naar Grimstad zelf,
+          een uitkijkpunt en naar D&#248mmesmoen. Die laatste tocht had ik
+          eerder al gedaan en wilde ik graag aan Chris laten zien. Het is een
+          van mijn favoriete plekjes in de buurt, heel erg mooi. <br><br>
+          De laatste paar daagjes zijn we nog naar een Airbnb in Kristiansand
+          gegaan, dat was ook super fijn. We zaten in V&#229gsbygd, net een stukje
+          lopen van het centrum van Kristiansand. We hebben daar in de buurt ook
+          een rondje gelopen, er was een heel mooi meer in de buurt. Natuurlijk
+          zijn we ook naar Kristiansand zelf geweest. We hebben er lekker samen
+          gegeten en de stad verkend.<br><br>
+          We kwamen er ook achter dat er ergens noordelijk van Kristiansand een
+          heel mooi park is. Daar hebben we ook nog een tijdje rondgelopen en
+          gelegen, het was super mooi weer! <br><br>
+          Zaterdag gingen we weer terug naar Grimstad, daar hebben we nog
+          eventjes genoten van de tijd samen. &#39s Avonds waren we door de buddies
+          Birgitte en Diego uitgenodigd om loempia&#39s te maken en eten, en Chris
+          had stroopwafels meegenomen dus die hadden we mee als toetje. Dat was
+          ook weer super gezellig en de loempia&#39s waren super goed gelukt. <br><br>
+          Zondag hebben we lekker gerelaxt en maandag gingen we weer richting
+          het vliegveld in Kristiansand, Chris ging weer naar huis. Dat was
+          eventjes moeilijk, ik ga hem weer missen, maar het was wel super fijn
+          en gezellig deze week :).`
+      }, en: {
+        title: "Chris",
+        text:  `This week Chris visited me here in Norway. That was so nice, I
+          missed him so! The first few days we just chilled and relaxed and
+          talked, and we watched a lot of movies. <br><br>
+          During the day we mostly walked. We went to Groos, the little beach
+          close to the university, to a viewing point and to D&#248mmesmoen. This
+          last hike I had done before, but I wanted to show it to Chris, it is
+          my favorite place in Grimstad, really beautiful. <br><br>
+          The last couple of days we went to an Airbnb in Kristiansand, which
+          was also really nice. We stayed in V&#229gsbygd, just a little less
+          than an hour walking from the center of Kristiansand. We walked around
+          V&#229gsbygd and found a really nice lake in a beautiful piece of
+          nature. We also went to Kristiansand to explore the city and had
+          dinner together. <br><br>
+          We also found out that there is a really nice park located north of
+          Kristiansand. There we walked for a while and then we just sat down
+          and relaxed, the weather was sunny! <br><br>
+          On Saturday we went back to Grimstad, where we just enjoyed our time
+          together. In the evening we were invited at the place of Diego and
+          Birgitte (buddies) to make and eat spring rolls. Chris brought
+          stroopwafels from the Netherlands, so we brought them as a dessert.
+          The spring rolls were really good, and the evening was great. <br><br>
+          On Sunday we relaxed some more and on Monday we went back to the
+          airport in Kristiansand, Chris went back home. That was a little bit
+          difficult for me, I will miss him, but we had a really great and cozy
+          week together :).`
+      }
     }
 ]
