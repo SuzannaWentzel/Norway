@@ -735,5 +735,50 @@ var blogposts = [
           big quiet lake, which mirrored the mountains surrounding it. After
           seeing this, we went back to Grimstad, quite a long journey. <br><br>`
       }
+    }, {
+      date: "18/10/2018",
+      img: ["./images/kaassouffles.jpg"],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Internationaal diner 2",
+        text: `Het was vandaag weer tijd voor een internationaal diner! Dit keer
+          hebben Rik en ik kaassouffl&#233s gebakken, wat een stuk makkelijker is
+          dan het lijkt. En iedereen had weer zulke lekkere dingen gemaakt! Een
+          hoop verschillende dingen ook, heel leuk om zo andere culturen te
+          proeven.`
+      }, en: {
+        title: "International dinner 2",
+        text: `Today it was time for the international dinner again. This time,
+          Rik and I baked kaassouffl&#233s, which is a lot easier than it sounds.
+          And everybody made awesome dishes! A lot of different things as well,
+          it is really great to try out other cultures in this way.`
+      }
+    }, {
+      date: "22/10/2018",
+      img: ["./images/pepperkaker.jpg"],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Pepperkaker",
+        text: `Ik heb deze koekjes in de winkel gevonden! Het zijn
+          speculaaskoekjes, die in het Noors 'pepperkaker' heten. Hiermee begon
+          dit hele avontuur. Tijdens de informatiemarkt om kennis te maken met
+          andere universiteiten had UiA ook een tafel en ze hadden deze koekjes!
+          Ze hadden een mooi praatje en een hoop foto&#39s, en zo hebben ze ons al
+          enthousiast gemaakt om naar Noorwegen te komen om bij UiA te studeren.
+          Ze hadden gelijk met hun verhaaltje, de universiteit, de omgeving en
+          de mensen zijn geweldig!`
+      }, en: {
+        title: "Pepperkaker",
+        text: `I found these cookies in the shops! They are gingerbread cookies,
+          which is called 'pepperkaker' in Norwegian. With these cookies this
+          whole adventure started. During an information market to get to know
+          other universities, UiA had a stand and they brought these cookies!
+          They had a nice speech and a lot of photos, in this way they made us
+          very enthusiastic to go to Norway and study at UiA. They were right
+          with their speech, the university, surroundings and the people are
+          amazing!`
+      }
     }
 ]
