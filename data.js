@@ -4,18 +4,19 @@ var intro = {
   nl: {
     text: `Ik ben Suzanna Wentzel. Voor mijn minor ben ik vijf maanden
       in het buitenland, op uitwisseling bij University of Agder in Noorwegen.
-      Hier ga ik de vakken "Scripting and Hacking" en "Application Development"
-      volgen. Daarnaast ben ik van plan om de hele omgeving te ontdekken.
-      Hier zal ik de filmpjes, foto's en verhalen van mijn avontuur plaatsen.
-      Veel plezier met het bekijken ervan!`
+      Hier ga ik de vakken "Scripting and Hacking", "Norwegian for International
+      Students" en "Application Development" volgen. Daarnaast ben ik van plan
+      om de hele omgeving te ontdekken. Hier zal ik de filmpjes, foto's en
+      verhalen van mijn avontuur plaatsen. Veel plezier met het bekijken ervan!`
   },
   en: {
     text: `My name is Suzanna Wentzel. I am on exchange in Norway at UiA for
       my minor. I will stay here for five months, and I will follow the courses
-      "Scripting and Hacking" and "Application Development". In addition to that,
-      I will explore the surroundings and hopefully find awesome stories to share.
-      On this webpage I will show you my videos, photos and stories about this
-      adventure. Have fun reading it!`
+      "Scripting and Hacking", "Norwegian for International Students" and
+      "Application Development". In addition to that, I will explore the
+      surroundings and hopefully find awesome stories to share. On this webpage
+      I will show you my videos, photos and stories about this adventure. Have
+      fun reading it!`
   }
 }
 
@@ -772,13 +773,108 @@ var blogposts = [
       }, en: {
         title: "Pepperkaker",
         text: `I found these cookies in the shops! They are gingerbread cookies,
-          which is called 'pepperkaker' in Norwegian. With these cookies this
+          which are called 'pepperkaker' in Norwegian. With these cookies this
           whole adventure started. During an information market to get to know
           other universities, UiA had a stand and they brought these cookies!
           They had a nice speech and a lot of photos, in this way they made us
           very enthusiastic to go to Norway and study at UiA. They were right
           with their speech, the university, surroundings and the people are
           amazing!`
+      }
+    }, {
+      date: "28/10/2018",
+      img: ["./images/kroodden_harbor.jpg", "./images/papa_gijs_bos.jpg",
+        "./images/familie_dommesmoen.jpg", "./images/familie_mama_marije_dommesmoen.jpg",
+        "./images/familie_dommesmoen_2.jpg", "./images/familie_kroodden.jpg",
+        "./images/familie_kroodden_view.jpg", "./images/familie_kroodden_view_2.jpg",
+        "./images/road_to_stavanger.jpg", "./images/familie_stavanger.jpg",
+        "./images/familie_stavanger_2.jpg", "./images/familie_stavanger_three_swords.jpg",
+        "./images/familie_ferry.jpg", "./images/familie_preikestolen.jpg",
+        "./images/familie_preikestolen_2.jpg", "./images/familie_preikestolen_3.jpg",
+        "./images/familie_preikestolen_4.jpg", "./images/familie_preikestolen_view.jpg",
+        "./images/familie_preikestolen_view_2.jpg", "./images/familie_preikestolen_view_3.jpg",
+        "./images/familie_fjordcruise.jpg", "./images/familie_fjordcruise_2.jpg",
+        "./images/familie_fjordcruise_3.jpg", "./images/familie_fjordcruise_4.jpg",
+        "./images/familie_farsund.jpg", "./images/familie_farsund_2.jpg",
+        "./images/familie_farsund_3.jpg", "./images/familie_farsund_4.jpg"],
+      currentImage: 0,
+      nl: {
+        title: "Familie",
+        text: `Afgelopen week waren papa, mama, Gijs en Marije in Noorwegen. Het
+          was zo fijn om ze weer te zien! Ze kwamen me van de campus ophalen en
+          toen gingen we door naar Kristiansand. Daar zijn we even de stad
+          ingegaan en naar het huisje geweest. <br><br>
+          Zaterdag hebben we de wandeltocht in D&#248mmesmoen weer gedaan, en zijn
+          naar de top in Kollen geklommen. Dat vonden ze super mooi en ik vond
+          het super leuk om ze deze dingen te laten zien. <br><br>
+          Zondag hebben we in de buurt van het huisje, in Kroodden rondgelopen.
+          Daarna hebben we Marije weer op het vliegveld gezet, die had geen
+          vakantie helaas en moest gewoon weer door met haar studie. <br><br>
+          Maandag vertrokken we uit Kroodden en gingen we naar Stavanger. Die
+          reis duurde vrij lang, maar het was een hele mooie weg, kronkelend
+          tussen alle bergen en het water. Toen we in de Airbnb aankwamen hebben
+          we lekker uitgerust. <br><br>
+          Dinsdag hadden we helaas vrij slecht weer, we wilden een wandeltocht
+          doen die op de drie zwaarden aansloot, maar na een paar minuten waren
+          we zo doorweekt dat we maar weer terug gingen. We hadden wel de drie
+          zwaarden gezien, best gaaf en heel groot.<br><br>
+          Woensdag hebben we de Preikestolen tocht gedaan. Dat was weer echt
+          heel mooi, de weg er naar toe en bovenop. Toen we bovenaan waren,
+          brak de zon ook nog eventjes door, super fijn en mooi! <br><br>
+          Donderdag zijn we weer langs de Preikestolen gegaan, maar deze keer
+          van onderaf, we deden een fjord cruise. Het was echt super mooi! De
+          fjord is vanaf het water net zo mooi als van bovenaf. We zagen ook
+          andere coole dingen zoals een trollengrot, een enorme waterval en een
+          hartjes-vormige rots. Na de cruise zijn we doorgereden naar Farsund,
+          een meer afgelegen plaats in een fjord tussen Grimstad en Stavanger. <br><br>
+          Vrijdag hebben we lekker uitgerust en heel veel spelletjes gedaan in
+          de Airbnb in Farsund, super fijn en gezellig. <br><br>
+          Zaterdag hebben we een rondje gelopen in Farsund en daarna hebben we
+          lekker gevaren, we mochten het bootje van de eigenaar van de Airbnb
+          lenen. Dat was super gaaf! We voeren op zee, tussen alle eilandjes
+          door. Het was ook wel flink koud, maar dat was het zeker waard, zo
+          mooi! <br><br>
+          Vanochtend hebben ze me weer in Grimstad afgezet en toen gingen ze
+          weer naar huis. Het was zo fijn om ze weer te zien, en deze week was
+          ontzettend gaaf! <br><br>`
+      }, en: {
+        title: "Family",
+        text: `Last week my mom, dad, brother and sister visited me in Norway.
+          It was so great to see them again! They picked me up from campus, and
+          then we went to Kristiansand. There we strolled through the city and
+          we went to the house. <br><br>
+          On Saturday we did the hike in D&#248mmesmoen again, and we climbed to the
+          top at Kollen. They liked it a lot, and I was happy to show them this
+          beautiful piece of nature. <br><br>
+          On Sunday we walked around in the neighbourhood of the house in
+          Kroodden. After that we brought Marije back to the airport,
+          unfortunately she did not have a holiday and had to continue studying. <br><br>
+          Monday we left Kroodden and we continued our trip to Stavanger. This
+          travel took quite long, but the road was beautiful, going through the
+          mountains and past the waters. When we reached the Airbnb, we just
+          relaxed. <br><br>
+          On Tuesday we sadly had bad weather, we wanted to hike on a path that
+          started at the Three Swords, but after a couple of minutes we were so
+          completely soaked that we decided to go back. We did see the swords,
+          so that was pretty cool. They are so big! <br><br>
+          On Wednesday we did the Preikestolen hike. That was again really
+          beautiful, the road to the top and the top itself. When we reached
+          the top, the sun even started shining, which was amazing! <br><br>
+          On Thursday, we passed the Preikestolen again, but this time we saw it
+          from down the fjord, we went on a fjord cruise. That was amazing! The
+          fjord seen from the water is just as beautiful as from the top. We
+          also saw some other cool things like a troll cave, an enormous
+          waterfall and a heart-shaped rock. After the cruise we continued our
+          trip to Farsund, a remote place in a fjord between Grimstad and
+          Stavanger. <br><br>
+          On Friday we relaxed some more and we did a lot of games in the
+          Airbnb, really nice and cozy. <br><br>
+          On Saturday we walked around in Farsund, and afterwards we went
+          sailing, we could borrow the motorboat from the owner of our Airbnb.
+          That was awesome! We sailed on see, between all the little islands.
+          It was freezing cold, but the sun was shining, it was great! <br><br>
+          This morning they dropped me off in Grimstad, they went home again. It
+          was so nice to see them, and this week was incredibly awesome!`
       }
     }
 ]
