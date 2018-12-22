@@ -665,5 +665,75 @@ var blogposts = [
           difficult for me, I will miss him, but we had a really great and cozy
           week together :).`
       }
+    }, {
+      date: "07/10/2018",
+      img: ["./images/stavanger_three_swords.jpg", "./images/stavanger_street_art.jpg",
+        "./images/stavanger_colorful_street.jpg", "./images/stavanger_harbor.jpg",
+        "./images/stavanger_old_town.jpg", "./images/preikestolen_ferry.jpg",
+        "./images/preikestolen_wooden_path.jpg", "./images/preikestolen_rocks.jpg",
+        "./images/preikestolen_view_1.jpg", "./images/preikestolen.jpg", "./images/preikestolen_view_2.jpg",
+        "./images/preikestolen_view_3.jpg"],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Stavanger en Preikestolen",
+        text: `Zaterdag ochtend vroeg gingen we op weg naar Stavanger, met
+          allemaal ESN mensen van UiA (uit Grimstad en Kristiansand). De busreis
+          duurde lang, ongeveer vijf uur met wat pauzes tussendoor. <br><br>
+          We werden in Stavanger afgezet. Daar mochten we een tijdje zelf de
+          stad ontdekken of met een tour mee. Ik ging met Rik en Lukas de stad
+          zelf ontdekken en we kwamen een hoop interessante dingen tegen: een
+          hoop Street art, oude gebouwen en torens, een heel kleurig straatje,
+          meerdere havens en een hele lekkere ijswinkel. Toen werden we
+          opgehaald en in het hostel afgezet. Daar hebben we nog een
+          avondwandeling en nog wat spelletjes gedaan. <br><br>
+          Zondag moesten weer vroeg op, we gingen naar de Preikestolen.
+          Preikestolen betekent in het Noors preekstoel. De Preikestolen is een
+          platte rotsformatie, waarin je deze preekstoel wel zou kunnen zien
+          (zie de afbeelding). Om er te komen gingen we via een veerpont, heel
+          mooi! Toen we bij het begin van de Preikestolen tocht aangekomen
+          waren, begonnen we met lopen, wow wat was dat mooi! Tijdens de hike
+          loop je door allemaal verschillende stukjes landschap, van bos tot
+          alleen maar rotsen en dalingen en hele steile stukken. En zelfs
+          tijdens de hike was het uitzicht al heel mooi, maar toen we bovenaan
+          kwamen waren we allemaal compleet verbluft. Zo mooi! We konden enorm
+          ver kijken en de bergen werden steeds blauwer, sommige toppen
+          besneeuwd. Op de top hebben we vrij lang gezeten en gewoon onze ogen
+          uit gekeken. <br><br>
+          Daarna gingen we weer naar beneden, dat ging een stuk makkelijker.
+          Beneden was nog een mooi meer, dus daar zijn we ook nog even heen
+          gelopen. Daarna gingen we weer met de bus terug naar huis, een lange
+          reis. <br><br>`
+      }, en: {
+        title: "Stavanger and Preikestolen",
+        text: `Very early on Saturday morning, we went on our way to Stavanger,
+          with a lot of ESN people from UiA (of Grimstad and Kristiansand). The
+          bus trip took quite a long time, around five hours with some breaks
+          in between. <br><br>
+          The bus dropped us off in the center of Stavanger, where we could
+          either explore the city by ourselves or with a guide. I explored the
+          city myself with Rik and Lukas, and we found a lot of interesting
+          things: a lot of street art, old buildings and towers, a very colorful
+          street, multiple harbors and a very nice ice cream shop. After that
+          the bus picked us up and brought us to the hostel. There we did a
+          quick night walk and we played some games. <br><br>
+          On Sunday we had to wake up early, we went to the Preikestolen. The
+          Preikestolen is a flat piece of rock, and is called Preikestolen
+          (preaching chair in Norwegian) because it could be a preaching chair
+          to the gods (see the image). To get there, we had to travel by a
+          ferry, which had a really pretty view! When we got to the start of
+          the Preikestolen hike, we started walking, it was so amazing! During
+          the hike you walk through a lot of different kinds of landscapes, from
+          forest to just rocks, from really steep paths to easy descents. Even
+          during the hike there are the most amazing views, but when we got to
+          the top, we were all completely stunned. The view was breathtaking and
+          we could see very far. The mountains got more blue the further they
+          were, and some of the tops were covered in snow. At the top of the
+          Preikestolen we just sat down and looked at this amazing view. <br><br>
+          After that we went down the path, back to the bus. Descending was a
+          lot easier than climbing up. At the bottom of the path there was a
+          big quiet lake, which mirrored the mountains surrounding it. After
+          seeing this, we went back to Grimstad, quite a long journey. <br><br>`
+      }
     }
 ]
