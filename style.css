@@ -95,7 +95,8 @@ table {
 	height: auto;
 	width: 150px;
 	line-height: 1.2;
-	overflow: scroll;
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
 
 .linkylink {
@@ -190,13 +191,33 @@ table {
   font-family: 'Open Sans', sans-serif;
 }
 
-.blogpost img {
+.imageContainer {
 	width: 100%;
 	max-width: 500px;
 	padding-bottom: 30px;
 	padding-top: 20px;
 	float: right;
 	display: inline-block;
+}
+
+.post_image {
+	width: 100%;
+}
+
+.btnBack {
+	margin-left: 40%;
+	margin-top: 20px;
+	font-size: 30px;
+}
+
+.inactive {
+	color: #BBB;
+}
+
+.btnForth {
+	margin-left: 17%;
+	font-size: 30px;
+	margin-top: 20px;
 }
 
 .blogpost iframe {

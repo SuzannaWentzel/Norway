@@ -1,5 +1,5 @@
 var intro = {
-  img: "./images/profile_picture.jpeg",
+  img: ["./images/profile_picture.jpeg"],
   title: "Hei!",
   nl: {
     text: `Ik ben Suzanna Wentzel. Voor mijn minor ben ik vijf maanden
@@ -22,7 +22,8 @@ var intro = {
 var blogposts = [
   {
     date: "08/08/2018",
-    img: "./images/packing_bags.jpg",
+    img: ["./images/packing_bags.jpg"],
+    currentImage: 0,
     vid: "",
     nl: {
       title: "Bagage",
@@ -44,7 +45,8 @@ var blogposts = [
     }
   }, {
     date: "09/08/2018",
-    img: "./images/arrival.jpeg",
+    img: ["./images/arrival.jpeg"],
+    currentImage: 0,
     vid: "",
     nl: {
       title: "Aankomst",
@@ -112,7 +114,8 @@ var blogposts = [
     }
   } , {
       date: "15/08/2018",
-      img: "./images/hike_intro.jpg",
+      img: ["./images/hike_intro.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Intro",
@@ -188,7 +191,7 @@ var blogposts = [
       }
   }, {
     date: "17/08/2018",
-    img: "",
+    img: [],
     vid: "",
     nl: {
       title: "Verjaardag",
@@ -229,7 +232,8 @@ var blogposts = [
     }
   }, {
     date: "18/08/2018",
-    img: "./images/color_festival.jpg",
+    img: ["./images/color_festival.jpg"],
+    currentImage: 0,
     vid: "",
     nl: {
       title: "Color Festival",
@@ -271,7 +275,8 @@ var blogposts = [
       }
     }, {
       date: "19/08/2018",
-      img: "./images/boat_trip_Grimstad.jpg",
+      img: ["./images/boat_trip_Grimstad.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Vaartocht",
@@ -329,7 +334,8 @@ var blogposts = [
       }
     }, {
       date: "24/08/2018",
-      img: "./images/View_blueberry_hike.jpg",
+      img: ["./images/View_blueberry_hike.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Bessen Hike",
@@ -408,7 +414,8 @@ var blogposts = [
       }
     }, {
       date: "26/08/2018",
-      img: "./images/cathedral_kristiansand.jpg",
+      img: ["./images/cathedral_kristiansand.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Kristiansand",
@@ -466,7 +473,7 @@ var blogposts = [
       }
     }, {
       date: "27/08/2018",
-      img: "",
+      img: [],
       vid: "",
       nl: {
         title: "Pasta",
@@ -504,7 +511,8 @@ var blogposts = [
       }
     }, {
       date: "30/08/2018",
-      img: "./images/oliebollen.jpg",
+      img: ["./images/oliebollen.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Internationaal Diner",
@@ -537,7 +545,8 @@ var blogposts = [
       }
     }, {
       date: "02/09/2018",
-      img: "./images/mushrooms.jpg",
+      img: ["./images/mushrooms.jpg"],
+      currentImage: 0,
       vid: "",
       nl : {
         title: "Paddenstoelen Plukken",
@@ -579,7 +588,8 @@ var blogposts = [
       }
     }, {
       date: "15/09/2018",
-      img: "./images/first_bonfire.jpg",
+      img: ["./images/first_bonfire.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Kampvuur",
@@ -596,7 +606,8 @@ var blogposts = [
       }
     }, {
       date: "01/10/2018",
-      img: "./images/chris.jpg",
+      img: ["./images/chris.jpg"],
+      currentImage: 0,
       vid: "",
       nl: {
         title: "Chris",

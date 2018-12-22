@@ -44,19 +44,64 @@
             <div class=introText><p>${intro[language].text}</p></div>`
           );
 
+          intro.currentIndex = 1;
+          console.log(intro.currentIndex);
+
           for (let i in blogposts) {
               let post = blogposts[i];
 
-              if (post.img !== "") {
+              if (post.img.length !== 0) {
                   $("#blogposts").append(`
                       <div class="blogpost" id="${i}">
                         <h2>${post.date}</h2>
                         <h1>${post[language].title}</h1>
-                        <img class="post_image" src="${post.img}">
+                        <div class="imageContainer">
+                          <img id="postImage${i}" class="post_image" src="${post.img[post.currentImage]}">
+                          <i id="btnImageBack${post[language].title}" class="fas fa-angle-left btnBack"></i>
+                          <i id="btnImageForth${post[language].title}" class="fas fa-angle-right btnForth"></i>
+                        </div>
                         <br>
                         <div class="posttext"><p>${post[language].text}</p></div>
                         <div class="empty"></div>
                       </div>`);
+                      let btnBack = document.getElementById(`btnImageBack${post[language].title}`);
+                      let btnForth = document.getElementById(`btnImageForth${post[language].title}`);
+                      if (post.currentImage === 0) {
+                        btnBack.classList.add("inactive");
+                      } else {
+                        btnBack.classList.remove("inactive");
+                        btnBack.onclick = showPreviousImage;
+                      }
+
+                      if (post.currentImage === post.img.length - 1) {
+                        btnForth.classList.add("inactive");
+                      } else {
+                        btnForth.classList.remove("inactive");
+                        btnForth.onclick = showNextImage;
+                      }
+
+                      function showPreviousImage(e) {
+                        if (post.currentImage === 0){
+                          console.log('Is first image');
+                        } else {
+                          let image = document.getElementById(`postImage${i}`);
+                          post.currentImage -= 1;
+                          image.src = post.img[post.currentImage];
+                          load(language);
+                        }
+                      }
+
+
+                      function showNextImage(evt) {
+                        if (post.currentImage === post.img.length - 1){
+                          console.log('Is last image');
+                        } else {
+                          let image = document.getElementById(`postImage${i}`);
+                          post.currentImage += 1;
+                          image.src = post.img[post.currentImage];
+                          load(language);
+                        }
+                      }
               } else if (post.vid !== "") {
                   $("#blogposts").append(`
                       <div class="blogpost" id="${i}">
