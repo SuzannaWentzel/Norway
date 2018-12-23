@@ -879,7 +879,7 @@ var blogposts = [
     }, {
       date: "29/10/2018",
       img: ["./images/first_snow.jpg"],
-      currentIndex: 0,
+      currentImage: 0,
       nl: {
         title: "Eerste Sneeuw",
         text: `Vandaag was er sneeuw in Grimstad! Alles zag er zo mooi en
@@ -904,7 +904,7 @@ var blogposts = [
       date: "06/11/2018",
       img: [],
       vid: "",
-      currentIndex: 0,
+      currentImage: 0,
       nl: {
         title: "Kampvuur 2",
         text: `Vanavond was er weer een kampvuur georganiseerd, dit keer door
@@ -917,6 +917,76 @@ var blogposts = [
         sausages, bread dough and corn. We roasted it all above the fire, it was
         super tasty! We were with a lot of people, so it was also super cozy,
         and nicely warm. A great night!`
+      }
+    }, {
+      date: "18/11/2018",
+      img: [],
+      vid: '',
+      currentImage: 0,
+      nl: {
+        title: "Kattenhuis",
+        text: `Renate ging vandaag twee katten bij het kattenhuis brengen en ze
+          vroeg of er mensen mee wilden. Ik en een paar anderen waren
+          nieuwsgierig, dus gingen we mee. <br><br>
+          In het kattenhuis wonen geen mensen, alleen een hoop katten, maar het
+          is wel een echt huis. Elke dag komen er verzorgers om de katten eten
+          te geven en de zieke katten te behandelen. Renate helpt er door schuwe
+          katten meer aan mensen te laten wennen. Daar konden wij bij helpen! <br><br>
+          Er waren een hoop verschillende katten; oude, jonge, knuffellige,
+          afstandelijke, rustige en actieve katten. We hebben daar ongeveer
+          drie uur met de katten gespeeld, ze waren super lief. Het was ook wel
+          leuk om te merken dat aan het einde de katten niet meer bang voor ons
+          waren!`
+      }, en: {
+        title: "Cat House",
+        text: `Renate was going to drop two cats at the cat house today and she
+        asked whether people wanted to join her. I and some others were curious,
+        so we joined her. <br><br>
+        In the cathouse, there do not live people, just a lot of different cats.
+        It is a real house however. Every day, caretakers visit to feed the
+        cats and to treat the ill cats. Renate helps at the cat house by making
+        the shy cats interact with people more. We could help her with that! <br><br>
+        There were a lot of different cats; old, young, cuddly, distant, quiet
+        and active cats. We spent around three hours just playing with the cats,
+        there were a lot of cat toys and the cats were super cute. We could see
+        that at the end, the cats weren&#39t really afraid of us anymore!`
+      }
+    }, {
+      date: "24/11/2018",
+      img: [],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Kerst Opening",
+        text: `In Noorwegen houden ze heel erg van kerst! Vandaag was de kerst
+          opening in Grimstad, dat was zo leuk! Ik heb nog nooit in Grimstad zo
+          veel Noren bij elkaar gezien. Eerst was er een optocht van het stoplicht
+          tot het centrale plein, waarbij de kinderen (gevaarlijk?) met fakkels
+          liepen. <br><br>
+      	  Op het plein stond een enorme kerstboom, met daarnaast een podium met 4
+          een koor. Ook werd ergens julegr&#248t (rijstepap, een traditioneel kerst
+          gerecht voor Noren) geserveerd, heel lekker! <br><br>
+          Toen de meeste mensen op het plein stonden, begon het koor te zingen met
+          muziek. Daarna was er een speech (in het Noors, ik kon helaas nog niet
+          alles begrijpen). Toen schreeuwde iedereen &#39God Jul&#39 (fijne kerst in
+          het Noors) en ging de kerstverlichting in de boom aan. Daarna was er
+          nog super lang mooi vuurwerk, een spectaculaire avond!`
+      }, en: {
+        title: "Christmas Opening",
+        text: `In Norway, the people really love Christmas! Today was the
+          Christmas opening in Grimstad, that was so nice! I have never seen so
+          many people in Grimstad. First there was a march, from the traffic
+          light to the central square, where the children (dangerously?) carried
+          torches. <br><br>
+          On the square there was an enormous Christmas tree, with a stage and a
+          choir. Somewhere julegr&#248t (rice porridge, a traditional Norwegian
+          Christmas dish) was served, really tasty! <br><br>
+          When most people had gathered at the square, the choir started singing
+          with music. Then there was a speech (in Norwegian, unfortunately I
+          couldn&#39t understand everything yet). Then everybody screamed
+          &#39God Jul&#39 (merry Christmas in Norwegian) and the lights of the
+          Christmas tree were turned on. Then there were some really long and
+          pretty fireworks, a spectacular evening!`
       }
     }
 ]
