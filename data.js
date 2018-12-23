@@ -876,5 +876,29 @@ var blogposts = [
           This morning they dropped me off in Grimstad, they went home again. It
           was so nice to see them, and this week was incredibly awesome!`
       }
+    }, {
+      date: "29/10/2018",
+      img: ["./images/first_snow.jpg"],
+      currentIndex: 0,
+      nl: {
+        title: "Eerste sneeuw",
+        text: `Vandaag was er sneeuw in Grimstad! Alles zag er zo mooi en
+          vredig uit! Vanochtend moesten we helaas wel door al die sneeuw naar
+          het politiebureau, om ons in te schrijven als tijdelijke inwoners van
+          Noorwegen. Door al die sneeuw hadden we een overstap gemist en een
+          hoop vertraging opgelopen, maar gelukkig konden we ons nog
+          inschrijven. En in al die vertraging hebben wij mooi van de sneeuw
+          kunnen genieten, sneeuwpoppen gemaakt en sneeuwballengevechten
+          gehouden :).`
+      }, en: {
+        title: "First snow",
+        text: `Today there was snow in Grimstad! Everything looked so beautiful
+          and peaceful! In the morning we had to go through all of the snow
+          unfortunately, to go to the police station and register as temporary
+          citizens of Norway. Because of the snow, we missed a bus and we got a
+          lot of delay, but fortunately we could still register even though we
+          missed our appointments. And while we waited for the bus, we could 
+          enjoy the snow :).`
+      }
     }
 ]
