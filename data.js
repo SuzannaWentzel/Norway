@@ -495,7 +495,7 @@ var blogposts = [
       },
       en: {
         title: "Pasta",
-        text: `Diego and Birgitte (our buddies) borrowed me a pasta-maker
+        text: `Diego and Birgitte (our buddies) lend me a pasta-maker
           machine, and now we wanted to try it out. So we invited them for a
           pasta evening! Yesterday I made and dried most of the pasta already.
           Today I continued making pasta, I still had a bit of dough left. For
@@ -881,7 +881,7 @@ var blogposts = [
       img: ["./images/first_snow.jpg"],
       currentIndex: 0,
       nl: {
-        title: "Eerste sneeuw",
+        title: "Eerste Sneeuw",
         text: `Vandaag was er sneeuw in Grimstad! Alles zag er zo mooi en
           vredig uit! Vanochtend moesten we helaas wel door al die sneeuw naar
           het politiebureau, om ons in te schrijven als tijdelijke inwoners van
@@ -891,14 +891,32 @@ var blogposts = [
           kunnen genieten, sneeuwpoppen gemaakt en sneeuwballengevechten
           gehouden :).`
       }, en: {
-        title: "First snow",
+        title: "First Snow",
         text: `Today there was snow in Grimstad! Everything looked so beautiful
           and peaceful! In the morning we had to go through all of the snow
           unfortunately, to go to the police station and register as temporary
           citizens of Norway. Because of the snow, we missed a bus and we got a
           lot of delay, but fortunately we could still register even though we
-          missed our appointments. And while we waited for the bus, we could 
+          missed our appointments. And while we waited for the bus, we could
           enjoy the snow :).`
+      }
+    }, {
+      date: "06/11/2018",
+      img: [],
+      vid: "",
+      currentIndex: 0,
+      nl: {
+        title: "Kampvuur 2",
+        text: `Vanavond was er weer een kampvuur georganiseerd, dit keer door
+          fjell & fjaere. Ze hadden worstjes, brooddeeg en maiskolven. We zaten
+          met een hoop mensen gezellig rond het vuurtje, super fijn, en lekker
+          warm! Een super geslaagde avond.`
+      }, en: {
+        title: "Bonfire 2",
+        text: `Tonight fjell & fjaere had organized a cozy bonfire! They brought
+        sausages, bread dough and corn. We roasted it all above the fire, it was
+        super tasty! We were with a lot of people, so it was also super cozy,
+        and nicely warm. A great night!`
       }
     }
 ]
