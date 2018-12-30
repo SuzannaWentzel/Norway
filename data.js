@@ -988,5 +988,52 @@ var blogposts = [
           Christmas tree were turned on. Then there were some really long and
           pretty fireworks, a spectacular evening!`
       }
+    }, {
+      date: "29/11/2018",
+      img: [],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Examen periode",
+        text: `Vandaag had ik mijn laatste toets en daarmee is mijn semester
+          eigenlijk afgelopen. In de examenperiode moest ik een aantal dingen
+          doen. Mijn eerste opdracht was voor Scripting and Hacking. Voor dit
+          vak waren servers opgezet, die wij in groepjes moesten zien binnen te
+          komen en daarover moesten we een verslag schrijven. Dit was best
+          ingewikkeld. We zijn een van de servers binnen gekomen en hebben nog
+          een andere gevonden. Het was een gave ervaring! <br><br>
+          Voor Application Development hadden we meerdere dingen te doen.
+          Allereerst moesten we een aantal JavaScript opdrachten maken.
+          Daarnaast hadden we een project, waarbij we een webapplicatie moesten
+          bouwen. Het doel van de webapplicatie was om users een presentatie te
+          laten cre&#235ren, die ze ook konden afspelen, een soort PowerPoint. Je
+          kan onze applicatie hier vinden: <br><br> <a href="https://once-upon-a-slide.herokuapp.com/">Once Upon a Slide</a><br><br>
+          Toen we dit project ingeleverd hadden, kregen we nog een mondeling over
+          de onderwerpen die tijdens het vak behandeld waren. <br><br>
+          Voor Noors kregen we een digitale toets, over alles wat we dit
+          semester geleerd hebben. Nu is mijn leer semester dus over, tijd voor
+          afscheid en reizen!`
+      }, en: {
+        title: "Exam period",
+        text:  `Today I had my last exam, which ends my semester here. In the
+          exam period, I had multiple things to do. My first assignment was for
+          Scripting and Hacking. For the final report of this course the
+          professors had set up networks with servers, that we had to figure
+          out a way into with a group of students. We had to write a report
+          about our workflow. It was quite complicated, but we got into one of
+          the servers, and we found another one. It was an awesome experience! <br><br>
+          For Application Development I had to do multiple things. First of all
+          I had to make some exercises about JavaScript. Furthermore, we had to
+          do a project in groups of four, where we had to build a web application.
+          The goal of this web application was to let users create and play
+          presentations, some kind of PowerPoint. You can find our application
+          here: <br><br><a href="https://once-upon-a-slide.herokuapp.com/">Once Upon a Slide</a><br><br>
+          When we handed in this project, we had to do an oral exam about the
+          subjects covered in the course. <br><br>
+          The last test I had was the Norwegian exam. This was a digital exam
+          about all the things we learned during the course. Now my learning
+          semester is finished, so it is time to say goodbye and to go
+          travelling!`
+      }
     }
 ]
