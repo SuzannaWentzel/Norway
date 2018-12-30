@@ -902,7 +902,7 @@ var blogposts = [
       }
     }, {
       date: "06/11/2018",
-      img: [],
+      img: ["./images/bonfire2.jpg"],
       vid: "",
       currentImage: 0,
       nl: {
@@ -920,7 +920,7 @@ var blogposts = [
       }
     }, {
       date: "18/11/2018",
-      img: [],
+      img: ["./images/cathouse_1.jpg", "./images/cathouse_2.jpg", "./images/cathouse_3.jpg", "./images/cathouse_4.jpg"],
       vid: '',
       currentImage: 0,
       nl: {
@@ -953,7 +953,7 @@ var blogposts = [
       }
     }, {
       date: "24/11/2018",
-      img: [],
+      img: ["./images/christmas_opening.jpg"],
       currentImage: 0,
       vid: "",
       nl: {
