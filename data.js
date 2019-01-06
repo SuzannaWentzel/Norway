@@ -1007,7 +1007,7 @@ var blogposts = [
           Daarnaast hadden we een project, waarbij we een webapplicatie moesten
           bouwen. Het doel van de webapplicatie was om users een presentatie te
           laten cre&#235ren, die ze ook konden afspelen, een soort PowerPoint. Je
-          kan onze applicatie hier vinden: <br><br> <a href="https://once-upon-a-slide.herokuapp.com/">Once Upon a Slide</a><br><br>
+          kan onze applicatie hier vinden: <br><br> <a href="https://once-upon-a-slide.herokuapp.com/" target="blank">Once Upon a Slide</a><br><br>
           Toen we dit project ingeleverd hadden, kregen we nog een mondeling over
           de onderwerpen die tijdens het vak behandeld waren. <br><br>
           Voor Noors kregen we een digitale toets, over alles wat we dit
@@ -1027,13 +1027,65 @@ var blogposts = [
           do a project in groups of four, where we had to build a web application.
           The goal of this web application was to let users create and play
           presentations, some kind of PowerPoint. You can find our application
-          here: <br><br><a href="https://once-upon-a-slide.herokuapp.com/">Once Upon a Slide</a><br><br>
+          here: <br><br><a href="https://once-upon-a-slide.herokuapp.com/" target="blank">Once Upon a Slide</a><br><br>
           When we handed in this project, we had to do an oral exam about the
           subjects covered in the course. <br><br>
           The last test I had was the Norwegian exam. This was a digital exam
           about all the things we learned during the course. Now my learning
           semester is finished, so it is time to say goodbye and to go
           travelling!`
+      }
+    }, {
+      date: "01/12/2018",
+      img: ["./images/goodbye.jpg"],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Afscheid",
+        text: `De afgelopen dagen heb ik een hoop afscheidsactiviteiten gedaan.
+          Tijdens dit semester hebben we bijvoorbeeld elke week Dungeons &
+          Dragons gespeeld met een aantal mensen. Dinsdag hebben we dat verhaal
+          afgerond. <br><br>
+          Woensdag had ik mijn laatste Jiujitsu training, dat heb ik dit
+          semester elke maandag en woensdag gedaan. Ik heb een hoop dingen
+          geleerd en een hoop leuke mensen ontmoet in de Jiujitsu groep. <br><br>
+          Donderdag hebben we als bedankje voor dit super vette half jaar de
+          buddies Birgitte en Diego mee uit eten genomen. <br><br>
+          Vrijdag was er het goodbye dinner. Iedereen had nog meer z&#39n best
+          gedaan om wat lekkers te maken en dat was super goed gelukt. Het was
+          enorm gezellig, en er was een hoop super lekker eten. <br><br>
+          Zaterdag heb ik vooral mijn spullen gepakt en schoon gemaakt en &#39s
+          avonds ben ik met Rik en zijn vader en de vriendin van z&#39n vader
+          uit eten gegaan, hij nam ons mee naar een super lekker Indiaas
+          restaurant.<br><br>
+          Zondag hebben we nog een laatste afscheidsontbijt gehad met Birgitte,
+          Rik, Eider & Lucas. Dat was super gezellig en fijn, maar ook een
+          beetje moeilijk! Maar toen hebben we maar afgesproken dat het geen
+          &#39goodbye&#39 maar een &#39see you&#39 moest zijn. Toen we dag
+          hadden gezegd gingen we de auto in, op reis!`
+      }, en: {
+        title: "Goodbye",
+        text: `The last couple of days I did a lot of goodbye-activities. During
+          this semester, I played Dungeons & Dragons with some people, and on
+          Tuesday we wrapped the story up for example. I had a lot of fun with
+          this group of people. <br><br>
+          On Wednesday I had my last Jiu Jitsu training, I did that every Monday
+          and Wednesday this whole semester. I learned a lot from everybody, and
+          I met a lot of awesome people there in the Jiu Jitsu group. <br><br>
+          On Thursday we took our buddies Birgitte and Diego out for dinner, as
+          a thank-you for this awesome half year. <br><br>
+          The goodbye dinner of ESN took place on Friday. Everyone had done
+          their best even more to make something nice and tasty, and it worked
+          out really well! It was super cozy and there was a lot of delicious
+          food. <br><br>
+          On Saturday I mostly packed my stuff and cleaned the apartment. In the
+          evening I went out for dinner with Rik and his parents, who were
+          visiting Grimstad. They took us to a super tasty Indian restaurant.<br><br>
+          On Sunday we had a last goodbye breakfast with Birgitte, Rik, Eider &
+          Lucas. That was super nice, but also a bit hard. But then we decided
+          that it wasn&#39t going to be a &#39goodbye&#39, it was a &#39see you&#39. When we
+          said goodbye, we went into the car. We are on our way to Oslo, the
+          first destination of our travel!`
       }
     }
 ]
