@@ -1087,5 +1087,76 @@ var blogposts = [
           said goodbye, we went into the car. We are on our way to Oslo, the
           first destination of our travel!`
       }
+    }, {
+      date: "05/12/2018",
+      img: ["./images/oslo_operahouse.jpg", "./images/oslo_christmas_market.jpg",
+        "./images/oslo_palace.jpg", "./images/oslo_lights.jpg",
+        "./images/oslo_lights_2.jpg", "./images/oslo_fortress.jpg",
+        "./images/oslo_fortress_2.jpg", "./images/oslo_fortress_3.jpg",
+        "./images/oslo_fortress_4.jpg", "./images/oslo_view.jpg",
+        "./images/oslo_new.jpg", "./images/oslo_view_2.jpg",
+        "./images/oslo_new_2.jpg", "./images/oslo_new_3.jpg",
+        "./images/oslo_peer_gynt.jpg"],
+      currentImage: 0,
+      vid: "",
+      nl: {
+        title: "Reis 1: Oslo",
+        text: `Zondag kwamen Rik en Ik aan in Oslo. We gingen toen eten bij
+          vrienden van zijn ouders die in de buurt van Oslo wonen, hele aardige
+          mensen! Daarna gingen we op zoek naar onze Airbnb. Dat was een leuk
+          appartement bij een super aardige vrouw en een hele lieve kat. <br><br>
+          Maandag zijn we rond gaan lopen, even de stat verkennen. Het is een
+          grote stad, met een hoop verschillende bouwstijlen, en nieuwe en oude
+          gedeeltes. Helaas waren ze ook een hoop nieuwe dingen aan het bouwen
+          en andere gebouwen aan het restaureren, op sommige plaatsen was het
+          een beetje een bouwput.<br><br>
+          We zijn eerst naar het operagebouw gelopen, een nieuw, heel modern
+          gebouw. Dat was heel mooi, we konden ook op het dak lopen. Verder
+          zijn we door het barcode project gelopen, een straat van hoge gebouwen
+          met een interessante architectuur, die van de bovenkant bekeken op een
+          barcode lijkt. Ook in Oslo was de kerstsfeer aanwezig: er waren een hoop
+          lichtjes, kerstbomen en een kerstmarkt, super vrolijk. <br><br>
+          Dinsdag zijn we weer gaan verkennen, nu in andere gedeeltes. We zijn
+          eerst naar het fort ggegaan, daar was ook een oorlogs museum, erg
+          heftig en indrukwekkend. Het fort was best groot en vrij oud,
+          interessant om te zien. Daarna zijn we naar een ander nieuw gedeelte
+          gegaan, eilandjes met hele nieuwe glazen gebouwen en leuke bruggetjes
+          er tussenin. Ook hier was interessante architectuur en kunst te
+          vinden, soms versierd met kerstversiering en een hoop lichtjes. <br><br>
+          &#39s Avonds kwam Maxime, een Franse vriend die ook uitwisselings
+          student was, bij ons in de Airbnb eten en spelletjes spelen, vet
+          gezellig :). <br><br>
+          Vandaag zijn we de Airbnb weer uit gegaan en hebben we met Lukas op
+          het station afgesproken, we nemen zo de trein naar Trondheim!`
+      }, en: {
+        title: "Travel 1: Oslo",
+        text: `On Sunday, Rik and I arrived in Oslo. We had dinner with some
+          friends of riks parents who live close to Oslo, really nice people!
+          After dinner we went to our Airbnb. That was a cosy apartment from a
+          really nice woman with a really cute cat. <br><br>
+          On Monday we roamed around in the city. Oslo is quite big, with a lot
+          of different architectures and new and old parts. Unfortunately, a lot
+          of new buildings were being built and other buildings were under
+          construction, which made Oslo seem a bit like a construction site. <br><br>
+          We first walked to the Opera house, a very new and modern building.
+          That was really pretty, we could even walk on the roof of it and see
+          the city. We also strolled through the barcode project, which is a
+          street of high buildings with interesting architecture. When the
+          street is viewed from the top, it looks like a barcode. The Christmas
+          spirit was also present in Oslo, it had a lot of lights, Christmas
+          trees and a Christmas market, really nice :). <br><br>
+          On Tuesday we walked through the city again, but now in different
+          parts. We first went to a fortress. It had a war museum, which was
+          very sad and impressive at the same time. The fortress itself was
+          quite big and old, very interesting to see. After that we went into a
+          newer part of the city, islands with new glass buildings and nice
+          bridges in between. Here we also found interesting architecture and
+          cool art, sometimes decorated with Christmas lights. In the evening
+          Maxime, a French friend who also is an exchange student, visited us
+          in the Airbnb. We had dinner together and played some games, it was
+          really nice! <br><br>
+          Today we left the Airbnb and we met Lukas at the central station of
+          Oslo. We will soon take the train to Trondheim!`
+      }
     }
 ]
