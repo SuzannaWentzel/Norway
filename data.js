@@ -1158,5 +1158,66 @@ var blogposts = [
           Today we left the Airbnb and we met Lukas at the central station of
           Oslo. We will soon take the train to Trondheim!`
       }
+    }, {
+      date: "09/12/2018",
+      img: ["./images/trondheim_sneeuw.jpg", "./images/trondheim_view.jpg",
+        "./images/trondheim_view_2.jpg", "./images/trondheim_view_3.jpg",
+        "./images/trondheim_colored_houses.jpg", "./images/trondheim_cathedral.jpg",
+        "./images/trondheim_bridge.jpg", "./images/trondheim_lights.jpg",
+        "./images/trondheim_tower.jpg", "./images/trondheim_snow.jpg",
+        "./images/trondheim_snow_2.jpg"],
+      currentImage: 0,
+      nl: {
+        title: "Reis 2: Trondheim",
+        text: `Woensdag namen we de trein naar Trondheim. Deze reis duurde zeven
+          uur en vijftig minuten, dat was een hele uitdaging, om je zo lang te
+          vermaken! We kwamen om negen uur in Trondheim aan, daar was een hoop
+          sneeuw! <br><br>
+          Donderdag zijn we Trondheim gaan ontdekken. Er lag sneeuw en het was
+          lekker glibberig. Er waren ook keen hoop lichtjes, er was nog meer
+          kerst dan in Grimstad en Oslo. Achter de huizen staken besneeuwde
+          bergen de lucht in, super mooi! <br><br>
+          Vrijdag hebben we lekker veel gelopen. We hebben mooie slootjes met
+          gekleurde huisjes gezien, we zijn een kathedraal in geweest, hebben
+          een museum bezocht en hebben de kroonjuwelen van Noorwegen gezien.
+          Daarna zijn we naar een fort gegaan, dat was vooral heel wit, er lag
+          zo veel sneeuw!<br><br>
+          Na het fort zijn we doorgelopen naar een uitkijktoren waar bovenin een
+          ronddraaiend restaurant zit. Daar hebben we lekker gegeten en het
+          uitzicht was zo mooi! Eerst was het nog semi-licht en het werd steeds
+          donkerder, tot het pikzwart met een hele hoop lampjes was. <br><br>
+          Zaterdag hebben we lekker rustig aan gedaan en nog een wandeling in de
+          natuur gedaan. Dat was zo mooi! Het had nog meer gesneeuwd en alles
+          was wit, grijs, bruin en donkergroen. Op het einde van de tocht stond
+          een leuk cafeetje, daar hebben we lekker opgewarmd met warme
+          chocolademelk en toen zijn we weer terug gelopen. <br><br>
+          Vandaag hebben we rustig onze spullen gepakt en zijn we naar het
+          vliegveld gegaan, op naar Troms&#248!`
+      }, en: {
+        title: "Travel 2: Trondheim",
+        text: `On Wednesday we took the train to Trondheim. This journey took
+          about seven hours and fifty minutes, it was quite a challenge not to
+          get bored! We arrived in Trondheim at nine in the evening, it was
+          already dark and there was a lot of snow! <br><br>
+          On Thursday we explored Trondheim. There was a lot of snow and the
+          roads were really slippery. Trondheim also has a lot of Christmas
+          lights, more than in Grimstad and Oslo. Behind the wooden houses the
+          snowed mountains rise, really pretty!<br><br>
+          On Friday we walked a lot. We saw cute little rivers with colored
+          wooden houses, we went to a cathedral, saw a museum and the
+          crown jewels of Norway. After that we went to a fortress, which was
+          mostly white, it had snowed so much! <br><br>
+          After the fortress we went to a tower, which had a rotating restaurant
+          at the top. In that restaurant we had dinner, the view was so
+          beautiful! First it was still semi-light, but it got darker and darker
+          until everything was pitch black with a lot of lights. <br><br>
+          On Saturday we chilled and relaxed, and we hiked in nature. That was
+          awesome! It had snowed even more and everything was colored white,
+          grey, brown and darkgreen. At the end of the walk, there was a cute
+          caf&#233, where we warmed ourselves with hot chocolate, and then we walked
+          back. <br><br>
+          Today we packed our bags and left to the airport, we are going to fly
+          to Troms&#248!`
+      }
     }
 ]
