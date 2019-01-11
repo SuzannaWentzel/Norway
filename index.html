@@ -45,7 +45,6 @@
           );
 
           intro.currentIndex = 1;
-          console.log(intro.currentIndex);
 
           for (let i in blogposts) {
               let post = blogposts[i];
@@ -64,8 +63,10 @@
                         <div class="posttext"><p>${post[language].text}</p></div>
                         <div class="empty"></div>
                       </div>`);
+
                       let btnBack = document.getElementById(`btnImageBack${post[language].title}`);
                       let btnForth = document.getElementById(`btnImageForth${post[language].title}`);
+                      
                       if (post.currentImage === 0) {
                         btnBack.classList.add("inactive");
                       } else {

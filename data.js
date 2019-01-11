@@ -1219,5 +1219,125 @@ var blogposts = [
           Today we packed our bags and left to the airport, we are going to fly
           to Troms&#248!`
       }
+    }, {
+      date: "13/12/2018",
+      img: ["./images/tromso.jpg", "./images/tromso_4.jpg",
+        "./images/tromso_2.jpg", "./images/tromso_whales.jpg",
+        "./images/tromso_whales_2.jpg", "./images/tromso_whales_3.jpg",
+        "./images/tromso_whales_4.jpg", "./images/tromso_whales_5.jpg",
+        "./images/tromso_huskies.jpg", "./images/tromso_huskies_2.jpg",
+        "./images/tromso_huskies_3.jpg", "./images/tromso_3.jpg",
+        "./images/tromso_5.jpg", "./images/tromso_6.jpg",
+        "./images/tromso_7.jpg"],
+      currentImage: 0,
+      nl: {
+        title: "Reis 3: Tromsoe",
+        text: `Zondag hebben we het vliegtuig naar Troms&#248 genomen. Dat had wat
+          vertraging vanwege een stop in Bodo. Daar werden we opgepikt door de
+          eigenaars van de Airbnb waar we verbleven. Toen we de bedden klaar
+          hadden gemaakt en onze spullen een plekje gegeven hadden, gingen we
+          nog even naar buiten om een korte wandeling te maken. Wat een
+          geglibber! Er lag nog meer sneeuw dan in Trondheim, en hier ligt er
+          een ijslaagje onder. <br><br>
+          Maandag hebben we Troms&#248 verkend en tours voor de rest van de dagen
+          geboekt. Daarna zijn we naar Polaria gegaan. Daar was heel veel
+          informatie over de dieren die op de Arctic leven. Ze hadden er sommige
+          dieren ook, zoals zeehonden en een hoop vissen :). Na het eten hebben
+          we nog een wandeling gemaakt, naar een donkerder gedeelte van de stad.
+          Toen we daar aan kwamen zagen we iets wat op een groene wolk leek. We
+          zijn nog iets eerder gelopen en toen veranderde de groene veeg in een
+          steeds feller wordend noorderlicht! Op een gegeven moment hebben we
+          zelfs rood en wit noorderlicht gezien. Super mooi en gaaf dat we zo
+          veel geluk gehad hebben dat we dat mochten zien. <br><br>
+          Dinsdag zijn we vroeg opgestaan en naar de haven gelopen. Daar vertrok
+          een walvis spot tour! Eerst hebben we vrij lang (verder naar het
+          noorden) gevaren om naar de plek te komen waar voor het laatst
+          walvissen en orka&#39s gezien waren. Na een tijdje rondvaren zagen we
+          wat vinnen, nog ver weg, maar ze waren er! Langzaam voer de boot wat
+          dichterbij, en toen zagen we ze beter: walvissen! We hebben vooral
+          rug- en staartvinnen gezien. Die waren al enorm, dus je kan je
+          voorstellen hoe enorm die dieren zijn! Heel majestueus, bijzonder om
+          te zien. We hebben tussendoor ook nog heel even orka&#39s boven zien
+          komen, best cool! <br><br>
+          Woensdag hadden we een andere tour, we gingen husky-slee&#235n! Toen we op
+          het terrein aan kwamen met de bus, horden we een hoop geluid. Alle
+          husky&#39s waren aan het blaffen, huilen en grommen. Een beetje
+          angstaanjagend in het begin. Toen kregen we een instructie voor het
+          slee&#235n en een warm pak, het was daar erg koud! Daarna gingen we per
+          twee mensen op een slee. Ik  mocht met een hele aardige gids, ze
+          vertelde me een hoop over de honden. De husky&#39s werden toen
+          klaargemaakt, en je zag ze enthousiast blaffen en springen, heel blij
+          om te gaan. Daar gingen we! <br><br>
+          De tocht bestond uit drie delen, een zwaarder deel waar we veel omhoog
+          gingen, een rustiger stuk met lagere heuvels en een stuk waar we
+          vooral naar beneden gingen. We reden door een wit sneeuwlandschap in
+          de schemer en in het donker (het schemert van 9:30 tot 13:30, daarna
+          is het weer donker, er is in Troms&#248 in deze tijd van het jaar geen
+          zon). De honden zijn enorm sterk en slimme beesten. We hoefden ze
+          amper te helpen als we omhoog gingen, erg knap.<br><br>
+          Tijdens het tweede deel mocht ik de slee besturen. Het enige wat je
+          daarbij hoeft te doen is op de remmen gaan staan als het nodig is en
+          soms een beetje bij steppen, de husky&#39s volgen zelf het pad. De andere
+          delen mocht ik lekker zitten en kijken, heel gaaf! <br><br>
+          Vandaag hebben we een beetje uitgerust en zijn we met een gondel een
+          berg op gegaan, met heel veel mensen in zo&#39n klein lifjte. Boven
+          aangekomen was er een enorm mooi uitzicht, een mooie verlichtte stad,
+          omcirkeld door bergen, compleet besneeuwd. Daarna zijn we weer naar
+          huis gegaan en hebben we onze spullen ingepakt, we hebben een lange
+          bootreis voor de boeg!`
+      }, en: {
+        title: "Travel 3: Tromsoe",
+        text: `On Sunday we took a plane to Troms&#248. We had some delays because
+          of a quick stop in Bodo. When we got to Troms&#248, we were picked up by
+          the owners of the Airbnb we stayed in. When we made our beds and put
+          our stuff into the right places, we went outside to walk for a while.
+          It was so slippery! There was even more snow than in Trondheim and
+          below the snow is a layer of ice. <br><br>
+          On Monday we explored Troms&#248 and we booked some tours for the rest of
+          the days here. Afterwards we went to Polaria. There they had a lot of
+          information about the animals living on the Arctic. They also had some
+          of those animals there, like seals and a lot of fish :). After dinner
+          we walked to a darker part of town where light pollution was less
+          than in other parts. When we got there, we saw something that looked
+          like a green cloud. We walked a little further and then the green
+          cloud changed slowly into the northern lights! At some point we even
+          saw red and white northern lights. It was amazingly beautiful, we were
+          so lucky that we have seen this!<br><br>
+          On Tuesday we got up early and walked to the harbor, where the
+          whale-watching tour would leave! First we sailed to the north for
+          quite a long time, to get to the place where whales and orcas were
+          last seen. After a while we saw some fins, quite far away, but they
+          were there! Slowly the boat approached the animals, and then we saw
+          them better: whales! We saw mostly their tail fins and dorsal fins,
+          but they were already huge, so you can imagine how big those animals
+          are! Very majestic and awesome to see. We have also briefly seen some
+          orcas, pretty cool! <br><br>
+          On Wednesday we did another tour, we went husky sleighing! When we got
+          to the terrain with the bus, we heard a lot of sounds. Every husky was
+          barking, howling and growling. That was a bit terrifying in the
+          beginning. Then we got an instruction about how to sleigh, and we got
+          a very warm suit, it was pretty cold out there! Afterwards we went
+          sleighing, two persons per sleigh. I was paired with a really nice
+          guide, she told me a lot about the dogs. The huskies were made ready
+          and you could see them jumping up and down, barking enthusiastically.
+          There we went!<br><br>
+          The husky-trip consisted of three parts, one heavier part where we
+          went uphill, one easier part with some low hills and one part where we
+          mostly went downhill. We drove through a white snowy landscape in the
+          twilight and in the dark (Twilight starts at 9:30 and ends at 13:30,
+          after that it is dark again, in Troms&#248 there is no sun at this time
+          of year). The dogs are really strong and smart, so we barely had to
+          help them when we went uphill, so strong.<br><br>
+          During the second part I could control the sleigh. The only thing you
+          have to do to control it is to step on the brakes if needed and
+          sometimes help the dogs by pushing the sleigh, the huskies follow the
+          trails themselves. The other two parts I could sit and watch the
+          amazing surroundings and the super cute dogs.<br><br>
+          Today we relaxed and went up a mountain with a cable car, with a lot
+          of people in a very small space. When we got to the top, we saw an
+          amazing view: a city with a lot of lights, surrounded by mountains and
+          everything covered in snow. After a while we went home and packed our
+          bags, we will be on the boat soon!`
+      }
     }
 ]
