@@ -1339,5 +1339,53 @@ var blogposts = [
           everything covered in snow. After a while we went home and packed our
           bags, we will be on the boat soon!`
       }
+    }, {
+      date: "17/12/2018",
+      img: ["./images/boat.jpg", "./images/boat_2.jpg", "./images/boat_3.jpg",
+        "./images/boat_4.jpg", "./images/boat_5.jpg", "./images/boat_6.jpg",
+        "./images/boat_7.jpg", "./images/boat_8.jpg"],
+      currentImage: 0,
+      nl: {
+        title: "Reis 4: Boot",
+        text: `Donderdag nacht kwamen we de boot op. We hebben toen nog
+          even de boot verkend en toen zijn we snel gaan slapen, we hadden
+          een cabine met z&#39n drie&#235n. De volgende ochtend hadden we een ontbijt
+          buffet, en daarna hebben we de boot in het licht verkend. <br><br>
+          Alle dagen waren verder een beetje hetzelfde. Vroeg opstaan voor
+          het ontbijt buffet, dan lekker chillen en sporten in de fitness
+          ruimte met uitzicht op het water, lekker op het dek staan en
+          uitwaaien in de wind, deinend op de golven met elke keer een
+          ander prachtig uitzicht op de kust. Daarna nog meer chillen en
+          heel veel Lord of the Rings kijken, lekker in een luxe stoel
+          zittend deze verhaaltjes schrijven en muziek luisteren, heerlijk! <br><br>
+          Elke dag dat we op de boot zaten kregen we ook meer licht, we
+          gingen immers van het noorden naar het zuiden, dus we hadden meer
+          licht om van het uitzicht te genieten. Gisteren hebben we ook nog
+          ontdekt dat er een jacuzzi op het achterdek van het schip zat
+          en daar hebben we zeker ook nog even gebruik van gemaakt. Daar
+          ontmoetten we twee Australische mevrouwen, heel aardig! <br><br>
+          Vandaag kwam het schip aan in Bergen, de laatste nieuwe stad die
+          we nog moeten verkennen :).`
+      }, en: {
+        title: "Travel 4: Boat",
+        text: `Thursday night we boarded the ship. We quickly explored the
+          boat and then we went to bed, we had a cabin with the three of
+          us. The next morning we had a breakfast buffet and afterwards we
+          explored the boat in daylight. <br><br>
+          Everyday was a bit of the same:
+          getting up early for the buffet, chilling and sporting in the
+          fitness room with view on the water, standing on the deck in the
+          wind, bouncing on the waves of the sea, with another view of the
+          coastline every time. After that we relaxed some more, I sat in
+          a luxurious chair writing these stories and listened to some
+          music, and we watched all Lord of the Rings movies. <br><br>
+          Every day we spent on the boat, we got more light (we were
+          traveling from Northern Norway to the South), so we had more
+          light to enjoy the view. Yesterday we also found out about a
+          jacuzzi at a deck, which we fondly used. There we met some
+          Australian women, which were very friendly! <br><br>
+          Today the boat reached Bergen, the last new city that we still
+          have to explore :).`
+      }
     }
 ]
