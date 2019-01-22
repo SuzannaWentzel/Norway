@@ -1387,5 +1387,84 @@ var blogposts = [
           Today the boat reached Bergen, the last new city that we still
           have to explore :).`
       }
+    }, {
+      date: "20/12/2018",
+      img: ["./images/bergen_night.jpg", "./images/bergen_night_2.jpg",
+        "./images/bergen.jpg", "./images/bergen_haakons_hall.jpg",
+        "./images/bergen_2.jpg", "./images/bergen_3.jpg",
+        "./images/bergen_4.jpg", "./images/bergen_5.jpg",
+        "./images/bergen_6.jpg", "./images/bergen_7.jpg",
+        "./images/bergen_jule_marked.jpg", "./images/bergen_hike.jpg",
+        "./images/bergen_hike_2.jpg", "./images/bergen_hike_3.jpg",
+        "./images/bergen_pepperkaker.jpg"],
+      currentImage: 0,
+      nl: {
+        title: "Reis 5: Bergen",
+        text: `Toen we maandag in Bergen aankwamen, zijn we eerst naar de Airbnb
+          gegaan. Daarna was het al aan het schemeren, maar zijn we toch de stad
+          gaan ontdekken. We vonden een mooie kerk, een gezellige kerst markt en
+          een hoop lichtjes. Er lag geen sneeuw in Bergen, maar dat was niet zo
+          erg, dan glibberen we tenminste niet zo erg meer. <br><br>
+          Dinsdag zijn we weer de stad in gegaan, met de goede moed om een hoop
+          dingen te bezoeken. Helaas kwamen we erachter dat de meeste museums en
+          dergelijke gesloten zijn in de winter. We hebben wel nog H&#229kons hall
+          bezocht, een enorme grote middeleeuwse hal. Ook hebben we nog een fort
+          en een ander oud houten gedeelte gezien. Dat was zo mooi! Het leek wel
+          een piraten onderkomen, het rook er naar oude huizen en alles was een
+          beetje scheef, prachtig! <br><br>
+          Daarna zijn we nog een van de bergen half opgelopen (Bergen is omringd
+          door zeven bergen) en daar hadden we een prachtig uitzicht. We zijn
+          ook nog bij een zee aquarium geweest, daar hebben ze otters, pingu&#239ns,
+          zeeleeuwen, schildpadden, krokodillen en een hele hoop verschillende
+          vissen. <br><br>
+          Gisteren hebben we &#39s ochtends een andere berg beklommen, met hele
+          smalle en steile paadjes, dwars tussen de bomen en de rotsen, zo dat
+          ik me afvroeg of we wel echt op een pad liepen. Op een gegeven moment
+          kwamen we nog in een mooi dal met een stroompje erdoorheen. Na de
+          wandeltocht hebben we nog even met z&#39n drie&#235n geluncht en toen
+          hebben we Lukas uitgezwaaid. <br><br>
+          Gisteravond hebben we nog met Ida afgesproken (een vriendin uit de
+          Application Development klas die uit Bergen komt). Met haar zijn we
+          naar de pepperkakerby gegaan, &#39s werelds grootste dorpje gebouwd
+          van speculaas koek. Daarna zijn we gaan eten in een van haar favoriete
+          caf&#233s en zijn we weer terug gegaan naar de kerstmarkt. Daar heeft Ida
+          ons gl&#248gg laten proeven, een typisch Noors kerst drankje met een hoop
+          kruiden en zoetigheid. Dat was een super gezellige avond!<br><br>
+          Vanochtend zijn we vroeg weer op gestaan, we gaan weer terug naar ons
+          beginpunt: Grimstad. `
+      }, en: {
+        title: "Travel 5: Bergen",
+        text: `When we got to Bergen on Monday, we first went to our Airbnb.
+          Then the twilight had already come up, but we still went exploring
+          the city. We found a beautiful church, a cozy Christmas market and a
+          lot of lights. There was no snow in Bergen, but that wasn&#39t so bad,
+          it meant that it also wasn&#39t that slippery anymore. <br><br>
+          On Tuesday we went into the city again, with a lot of hope to explore
+          some awesome museums. Unfortunately we found out that most museums and
+          old buildings are closed in the winter season. We did visit H&#229kons
+          hall, an enormous medieval hall. We also saw a fortress and another
+          part of the city that consisted of some really old wooden houses. It
+          was so pretty! It looked like some old pirate bay, it smelled like old
+          wood and everything was crooked and tilted, beautiful! <br><br>
+          After that we walked up one of the mountains surrounding Bergen (it is
+          surrounded by seven mountains). There we had an amazing view. We also
+          visited a sea aquarium, where they had penguins, otters, sea lions,
+          turtles, crocodiles and a lot of colorful fish. <br><br>
+          Yesterday morning we climbed another mountain, with really narrow and
+          steep paths through the trees and rocks that made me wonder whether we
+          were walking on an actual path or not. At some point we walked through
+          a beautiful small open space in the forest with in the middle a little
+          river. After the hike we had lunch with the three of us and afterwards
+          we said goodbye to Lukas, he was flying back home.<br><br>
+          In the evening we met with a friend from our Application Development
+          class who is originally from Bergen, Ida. She took us to the
+          Pepperkakerby, which is the world&#39s biggest town built of
+          gingerbread. After that we had dinner in one of her favorite pubs and
+          then we went back to the Christmas market. There Ida gave us gl&#248gg, a
+          typical Norwegian Christmas drink with a lot of spices and sweetness.
+          It was a great evening! <br><br>
+          This morning we got up early again, we are going back to our starting
+          point: Grimstad.`
+      }
     }
 ]
